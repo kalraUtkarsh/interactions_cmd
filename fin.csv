@@ -1,0 +1,1334 @@
+,Protein name,EC#,Uniprot,name
+0, cellulase (EBI-244),3.2.1.4,F6M085,GH5
+1, cellulase / cellobiohydrolase (Hu-CBH1;Huta_2387),3.2.1.4,C7NVN0,GH5
+2," endo-β-1,4-glucanase (EglB;TCel4;PAB0632)",3.2.1.4,Q9V052,GH5
+3," endo-β-1,4-glucanase (EGPh;EglB;TCel3;PH1171)",3.2.1.4,O58925,GH5
+4, thermoactive glycoside hydrolase family 5 endoglucanase (Cel5A),3.2.1.4,A0A3Q9CZQ1,GH5
+5, Cthe_0405 (CelL),3.2.1.4,A3DCG4,GH5
+6," endo-β-1,4-glucanase B (CelB;EgB;Cthe_0536) (Cel5A)",3.2.1.4,P04956,GH5
+7," endo-β-1,4-glucanase G (CelG;Cthe_2872) (Cel5D)",3.2.1.4,Q05332,GH5
+8," endo-β-1,4-glucanase C (CelC)",3.2.1.4,Q9AL36,GH5
+9," endo-β-1,4-glucanase B (CelB;EgB) (Cel5A)",3.2.1.4,P04956,GH5
+10," endo-β-1,4-glucanase G (CelG) (Cel5D)",3.2.1.4,Q05332,GH5
+11," endo-β-1,4-glucanase / β-1,3:1,4-glucanase H (CelH) (Lic26A;Cel5E)",3.2.1.4,"H6SHY4
+P16218",GH5
+12," endo-β-1,4-glucanase C (LC2;CelC;EgC) (Cel5B)",3.2.1.4,"P07985
+P0C2S3",GH5
+13," endo-β-1,4-glucanase E1 (EGAc;EGI;TcE1;Acel_0614) (Cel5A)",3.2.1.4,P54583,GH5
+14," endo-β-1,4-glucanase",3.2.1.4,O66064,GH5
+15," endo-β-1,4-glucanase (Egl-1139) / III-3A (Cel5A)",3.2.1.4,P06564,GH5
+16, endoglucanase (EG-I-1),3.2.1.4,I1V1X7,GH5
+17, endoglucanase (Egl;EglA;azo2236),3.2.1.4,A0S6A6,GH5
+18," endo-β-1,4-glucanase (Egl;AZC_1301)",3.2.1.4,A8I0V5,GH5
+19, endoglucanase (EglII),3.2.1.4,D3Y2F0,GH5
+20, endoglucanase A (EngA),3.2.1.4,Q8RPQ6,GH5
+21," endo-β-1,4-glucanase (Egl01)",3.2.1.4,A0A0A7EZH7,GH5
+22, endoglucanase (BlCel5B; BLi01882; BL01230) (Cel5B),3.2.1.4,Q65JI7,GH5
+23," endo-β-1,4-glucanase C (BglC;BLi02088;BL01471) (Cel5A)",3.2.1.4,"A5A671
+Q65IY7",GH5
+24," endo-β-1,4-glucanase (Cel5A) (Cel5A)",3.2.1.4,Q7X3S6,GH5
+25," endo-β-1,4-glucanase",3.2.1.4,Q45554,GH5
+26," endo-β-1,4-glucanase",3.2.1.4,O83012,GH5
+27," endo-β-1,4-glucanase B1",3.2.1.4,Q59232,GH5
+28, CelS,3.2.1.4,O52731,GH5
+29, cellulase (CelB),3.2.1.4,D4P8C6,GH5
+30," endo-β-1,4-glucanase K (Egl-K)",3.2.1.4,P19424,GH5
+31," endo-β-1,4-glucanase (Egl-64)",3.2.1.4,Q59241,GH5
+32, endoglucanase N252 (Egl252),3.2.1.4,Q93R81,GH5
+33," endo-β-1,4-glucanase (Egl-237)",3.2.1.4,Q9F216,GH5
+34," endo-β-1,4-glucanase",3.2.1.4,Q45532,GH5
+35," β-1,3-1,4-glucanase / cellulase C (CelA;CelC)",3.2.1.4,Q6Y4Q1,GH5
+36, endoglucanase (Egl173;Cel;EglS),3.2.1.4,Q93TJ6,GH5
+37," endo-β-1,4-glucanase (Eg15) (Cel5A)",3.2.1.4,"B6DVJ2
+B6VEU9
+B6VEV0
+B6VEV1
+B6VEV2
+B6VEV3
+B6VEV4
+B6VEV5",GH5
+38," endo-β-1,4-glucanase (CMCase;BglC)",3.2.1.4,P23549,GH5
+39," endo-β-1,4-glucanase (CelG)",3.2.1.4,Q93LD0,GH5
+40," endo-β-1,4-glucanase (EglS)",3.2.1.4,"G1DE47
+P10475",GH5
+41," endo-β-1,4-glucanase (BglC;Gld)",3.2.1.4,P07983,GH5
+42, cellulase (CelDR),3.2.1.4,"A8D0T0
+B6V3I2",GH5
+43," endo-β-1,4-glucanase (CelI15)",3.2.1.4,B7UAM4,GH5
+44," endo-β-1,4-glucanase",3.2.1.4,U3RAX4,GH5
+45," endo-β-1,4-glucanase (Egl499;Egl330)",3.2.1.4,Q45T78,GH5
+46, cellulase (Cel15;Cell15),3.2.1.4,C5I946,GH5
+47, cellulase (EG),3.2.1.4,H3K351,GH5
+48," endo-β-1,4-glucanase (EglS;BglC;Gld;BSU18130;BsCel5;BsCel5A) (Cel5A)",3.2.1.4,"A0A6M3ZBL5
+G1DE47
+P10475",GH5
+49," endo-β-1,4-glucanase",3.2.1.4,M1R5G7,GH5
+50, cellulase (CelA10),3.2.1.4,C5HG53,GH5
+51, cellulase (CelA24),3.2.1.4,C5HG56,GH5
+52, endo-cellulase (AC2aCel5A) (Cel5A),3.2.1.4,A0A076MPD7,GH5
+53," endo-1,4-glucanase A",3.2.1.4,P22541,GH5
+54," endo-β-1,4-glucanase 1 (End1;EglI;EGI)",3.2.1.4,P20847,GH5
+55," endo-β-1,4-glucanase (TTE0359) (Cel5A)",3.2.1.4,Q8RCQ7,GH5
+56," endo-β-1,4-glucanase D (CelD; Athe_0594)",3.2.1.4,"B9MPF9
+Q59154",GH5
+57," endo-β-1,4-glucanase / exo-β-1,4-glucanase (CelB;EgB)",3.2.1.4,P10474,GH5
+58, endoglucanase (Csac_0678),3.2.1.4,A4XHB2,GH5
+59, cellulase (CBH-B;CelB;Csac_1078),3.2.1.4,A4XIF7,GH5
+60," endo-β-1,4-glucanase (CelB)",3.2.1.4,I7CBM8,GH5
+61, multidomain endoglucanase (CelB),3.2.1.4,Q9X3P6,GH5
+62, Caul_1283 (Cel5A),3.2.1.4,B0SYT2,GH5
+63," endo-β-1,4-glucanase D (CenD;Celf_1924) (Cel5A)",3.2.1.4,"F4GZL0
+P50400",GH5
+64," endo-β-1,4-glucanase B (CelB;CflB;CelCflB;SP18)",3.2.1.4,Q9S3V3,GH5
+65, endoglucanase (CelA),3.2.1.4,K9J9W6,GH5
+66," endo-β-1,4-glucanase E / 5B (CelE;CJA_2983) (Cel5B)",3.2.1.4,"B3PCS3
+Q59665",GH5
+67," endo-β-1,4-glucanase A (CenA;Celf_3184) (Cel6A)",3.2.1.4,"F4GZY2
+P07984",GH6
+68," endo-β-1,4-glucanase (CelL)",3.2.1.4,A0A0P0IZM9,GH6
+69," endo-β-1,4-glucanase (CenA;MCenA)",3.2.1.4,Q53488,GH6
+70, endoglucanase (CelA1;CelA;Rv0062;MTV030.05) (Cel6),3.2.1.4,Q79G13,GH6
+71," endo-β-1,4-glucanase I (EGI;EGII)",3.2.1.4,E1CAJ8,GH6
+72," endo-β-1,4-glucanase 6A (Sde_2272) (Cel6A)",3.2.1.4,Q21IE7,GH6
+73," endo-β-1,4-glucanase A (CelA1;Cel1;CMCASE I)",3.2.1.4,P33682,GH6
+74," endo-β-1,4-glucanase (E2;CelB;Tfu_1074) (Cel6A)",3.2.1.4,"P26222
+Q47R05",GH6
+75, endoglucanase (ThCel6A) (alkali-stable) (Cel6A),3.2.1.4,X2G0M7,GH6
+76," endo-β-1,4-glucanase A (CelA)",3.2.1.4,P26414,GH6
+77, endoglucanase mgCel6A (mgCel6A),3.2.1.4, ,GH6
+78, cellulase (Cel6H) (partial) (Cel6H),3.2.1.4,G1K3U8,GH6
+79, cellulase (Lc-CelB),3.2.1.4,W8PF16,GH6
+80, cellulase (Lc-CelJ),3.2.1.4,W8P3Q3,GH6
+81, exoglucanase (CbsA) (fragment),3.2.1.4,"A0A384E106
+Q6IT74",GH6
+82," endo-β-1,4-glucanase (Cel6A)",3.2.1.4,Q9RQE6,GH6
+83," endo-β-1,4-glucanase B (EG VI) (Cel6B)",3.2.1.4,Q7SIG5,GH6
+84, β-glucanase (CbhYW23-2),3.2.1.4,B0FEV9,GH6
+85," endo-β-1,4-glucanase (PaCel6B;Pa_2_13800) (Cel6B)",3.2.1.4,B2AC20,GH6
+86," endo-β-1,4-glucanase (Af-EGL7; AFUA_6G01800; Afu6g01800)",3.2.1.4, ,GH7
+87," endo-β-1,4-glucanase (EglB;AN3418.2)",3.2.1.4,"C8VHK3
+Q5B7R2",GH7
+88," endo-β-1,4-glucanase (CelB)",3.2.1.4,"F5BB84
+O13455
+Q2TX26",GH7
+89," endo-β-1,4-glucanase (COCSADRAFT_201124)",3.2.1.4, ,GH7
+90," endo-β-1,4-glucanase (CLhgEG1)",3.2.1.4,Q8MXY2,GH7
+91," endo-β-1,4-glucanase (CLhgEG2)",3.2.1.4,Q8MXY1,GH7
+92," endo-β-1,4-glucanase I (EG I;Eg1;Fof7) (Cel7B)",3.2.1.4,"P46237
+Q9HGT3",GH7
+93, endoglucanase 3 (HmEG3) (fragment),3.2.1.4,Q95P29,GH7
+94, endoglucanase 2 (HmEG2),3.2.1.4,Q95P30,GH7
+95, endoglucanase 1 (HmEG1),3.2.1.4,Q95P31,GH7
+96," endo-β-1,4-glucanase I (Egl1;EG-I)",3.2.1.4,Q12622,GH7
+97, endoglucanase I (EG I;EG1) (Cel7B),3.2.1.4,P56680,GH7
+98, endoglucanase I / 7B (Eg1;Egl1) (Cel7B),3.2.1.4,B0FMT4,GH7
+99, cellulase (CelG5),3.2.1.4,H6TBN1,GH7
+100, endoglucanase 3 (PgEG3),3.2.1.4,Q95YH3,GH7
+101, endoglucanase 2 (PgEG2),3.2.1.4,Q95YH4,GH7
+102, endoglucanase 1 (PgEG1h),3.2.1.4,"Q95NK6
+Q95P32",GH7
+103," endo-β-1,3/1,4-glucanase / endotransglucosylase (Egl1;ETG;MoCel7B;MGG_02532;MG02532.4) (Cel7B)",3.2.1.4,"G4NK46
+H2DQS1",GH7
+104, cellulase (GHF7-5),3.2.1.4,X2CHW9,GH7
+105," endo-β-1,4-glucanase 7B (TCE0_024r07350) (Cel7B)",3.2.1.4,A0A6V8H7V0,GH7
+106," endo-β-1,4-glucanase (Eg7a;MtEG7a;MYCTH_111372)",3.2.1.4,G2QCS4,GH7
+107," endo-β-1,4-glucanase I (ThCel7B) (Cel7B)",3.2.1.4, ,GH7
+108," endo-β-1,4-glucanase I (Egl1;EglI;TlCel7A;eCEL;E-CELTR) (Cel7A)",3.2.1.4,Q12714,GH7
+109, endoglucanase I (HpCel7B) (Cel7B),3.2.1.4,A2TDD6,GH7
+110," endo-β-1,4-glucanase I (EGI;Egl1;EG-I;TrCel7B) (Cel7B)",3.2.1.4,P07981,GH7
+111," endo-β-1,4-glucanase I (EGI;BglI)",3.2.1.4,Q7Z7X3,GH7
+112, endoglucanase I,3.2.1.4,Q7M4V4,GH7
+113, SM2632A27;SM2632B65,3.2.1.4,"A4UWW5
+A4UWW9",GH7
+114, SM2637A29,3.2.1.4,A4UWY5,GH7
+115," endo-β-1,4-glucanase (RsSymEG1;RsSym EG I;RsSymEG;SM2038B11)",3.2.1.4,A4UWN6,GH7
+116, SM2039A92,3.2.1.4,A4UWP3,GH7
+117, SM2040A65,3.2.1.4,A4UWP5,GH7
+118, SM2042B24,3.2.1.4,A4UWQ5,GH7
+119," endo-β-1,4-glucanase A (CelA;Cthe_0269) (Cel8A)",3.2.1.4,A3DC29,GH8
+120," endo-β-1,4-glucanase A (CelA) (Cel8A)",3.2.1.4,"A3DC29
+P04955",GH8
+121, endoglucanase (CelY;Aq_1401) (Cel8Y),3.2.1.4,O67401,GH8
+122," endo-1,4-glucanase",3.2.1.4,P29019,GH8
+123," endo-β-1,4-glucanase (CMCase) (fragment)",3.2.1.4,P18336,GH8
+124, endoglucanase 8Y (Cel8Y),3.2.1.4,Q9APJ5,GH8
+125," endo-β-1,4-glucanase Y (CelY)",3.2.1.4,P27032,GH8
+126, endoglucanase,3.2.1.4,C7FFS4,GH8
+127," endo-β-1,4-glucanase (BcsZ)",3.2.1.4,K0IUV6,GH8
+128, endoglucanase (CelA),3.2.1.4,Q9L3G9,GH8
+129," endo-β-1,4-glucanase (YhjM;BcsC;b3531) (periplasmic)",3.2.1.4,P37651,GH8
+130, Fisuc_0241 / FSU_0651,3.2.1.4,C9RJZ0,GH8
+131, endoglucanase (Fisuc_1802;FSU_2303) (Cel8B),3.2.1.4,A7UG68,GH8
+132," endo-β-1,4-glucanase (Cel8H)",3.2.1.4,C0JSK6,GH8
+133," endo-β-1,4-glucanase (CelG;KPK_0216)",3.2.1.4,B5XN19,GH8
+134," endo-β-1,4-glucanase (Cel;CelJV;Cell-JV)",3.2.1.4,D9ISD8,GH8
+135," endo-β-1,4-glucanase (CMCase)",3.2.1.4,C9WB00,GH8
+136," endo-β-1,4-glucanase (Cel10;Kvar_0212)",3.2.1.4,"A0A0J4VP90
+D3RD09",GH8
+137," endo-β-1,4-glucanase (CMCax;AEG)",3.2.1.4,P37696,GH8
+138," endo-β-1,4-glucanase (CMCax;CMCase;Orf1)",3.2.1.4,O82857,GH8
+139, endoglucanase N257 (Egl257),3.2.1.4,Q93HV0,GH8
+140, cellulase (CelC;Cel1F) (Cel1F),3.2.1.4, ,GH8
+141, cellulase C2 (CelC2; CelcC2; CelC),3.2.1.4,Q83XK5,GH8
+142," endo-β-1,4-glucanase C (CelC;Ccel_0730) (Cel8C)",3.2.1.4,P37699,GH8
+143," endo-β-1,4-glucanase B (CelB) (Cel8A)",3.2.1.4,"D1MX94
+P37701",GH8
+144," endo-β-1,4-glucanase (GH8A;RUM_08240) (Cel8A)",3.2.1.4,D4LBL3,GH8
+145, endoglucanase (BcsZ),3.2.1.4,Q8ZLB7,GH8
+146, endoglucanase (CelC;CMCase),3.2.1.4,"Q7B8Q5
+Q8ZLB7",GH8
+147, acidic endocellulase (CEL8M) (Cel8M),3.2.1.4,F8V2V6,GH8
+148, GH-EG1,3.2.1.4,J9WUW3,GH8
+149, endoglucanase (Cen219;C8),3.2.1.4,"I6ZKG5
+S5ZBD1",GH8
+150, endoglucanase (CelA;ZMO1086),3.2.1.4,Q5NNK0,GH8
+151," endo-β-1,4-glucanase (Cel9B)",3.2.1.4,Q50HR0,GH9
+152, endoglucanase (Clocl_2225),3.2.1.4,G8LXR4,GH9
+153," endo-β-1,4-glucanase I (CelI;Cthe_0040) (Cel9I)",3.2.1.4,Q02934,GH9
+154, cellulase K (CelK;Cthe_0412) (Cel9K),3.2.1.4,A3DCH1,GH9
+155," endo-β-1,4-glucanase F (CelF;Cthe_0543) (Cel9B)",3.2.1.4,P26224,GH9
+156," endo-β-1,4-glucanase R / cellotetraohydrolase (CelR;Cthe_0578) (Cel9R)",3.2.1.4,A3DCY5,GH9
+157," endo-β-1,4-glucanase Q (CelQ;Cthe_0625) (Cel9I)",3.2.1.4,"A0A1Y0K4H1
+A3DD31",GH9
+158," endo-β-1,4-glucanase (CelD;Cthe_0825) (Cel9A)",3.2.1.4,A3DDN1,GH9
+159," endo-β-1,4-glucanase T (CelT;Cthe_2812) (Cel9T)",3.2.1.4,A3DJ82,GH9
+160, endoglucanase T (CelT) (Cel9T),3.2.1.4,Q8VV73,GH9
+161, endoglucanase Q (CelQ) (Cel9I),3.2.1.4,Q9AJF8,GH9
+162," cellotetraose-producing endo-β-1,4-glucanase (CelR) (Cel9R)",3.2.1.4,Q70DK3,GH9
+163," endo-β-1,4-glucanase N (CelN) (Cel9N)",3.2.1.4,Q9L3J5,GH9
+164," endo-β-1,4-glucanase D (CelD) (Cel9A)",3.2.1.4,"A3DDN1
+P04954
+P0C2S4",GH9
+165," endo-β-1,4-glucanase F (CelF) (Cel9B)",3.2.1.4,P26224,GH9
+166," endo-β-1,4-glucanase I (CelI;CMC) (Cel9C=Cel9I)",3.2.1.4,"Q02934
+Q9L3J8",GH9
+167, cellulase (CelA;Ac_Cel9A;AaCel9A;Aaci_2475) (Cel9A),3.2.1.4,"C8WSJ6
+Q9AJS0",GH9
+168, endoglucanase (BLi01880;BL01232;BlCel9),3.2.1.4,Q65JI9,GH9
+169, cellulase (Cel9A) (Cel9A),3.2.1.4,Q6SYB5,GH9
+170," endo-β-1,4-glucanase (EGX)",3.2.1.4,E3UTE0,GH9
+171, endoglucanase,3.2.1.4,G8I0B7,GH9
+172," endo-β-1,4-glucanase A (EglA)",3.2.1.4,Q5YLG1,GH9
+173," endo-β-1,4-glucanase",3.2.1.4,Q9R9H6,GH9
+174," endo-β-1,4-glucanase IV",3.2.1.4,P28622,GH9
+175, endoglucanase A (Ega;Bα-EGA),3.2.1.4,A6Y862,GH9
+176, cellulase (CelA20),3.2.1.4,C5HG55,GH9
+177," endo-1,4-glucanase C (Ced1)",3.2.1.4,P23658,GH9
+178, cellulase (CelA;CbCelA;Athe_1867;Cbes1867;Cbes_1867;CbCBH48A) (Cel9A+Cbh48A),3.2.1.4,"B9MKU7
+P96311",GH9
+179, bifunctional cellulase / β-mannanase (CelC-ManB;CbCel9B/Man5A;Athe_1865;Cbes_1865;Orf1952) (Cel9B-Man5A),3.2.1.4,B9MKU5,GH9
+180," endo-β-1,4-glucanase B (CenB;Celf_0019) (Cel9A)",3.2.1.4,"F4H3U7
+P26225",GH9
+181," endo-β-1,4-glucanase C (CenC) (Cel9B)",3.2.1.4,P14090,GH9
+182, endoglucanase (CBP105) (processive),3.2.1.4,Q3ZMA8,GH9
+183, Cfla_3563,3.2.1.4,"A0A1Y0K4G5
+D5UDH9",GH9
+184," endo-β-1,4-glucanase A (CelA;CJA_2472) (Cel9A)",3.2.1.4,"B3PKK4
+P10476",GH9
+185, endoglucanase (CelG;CAC0916),3.2.1.4,Q97KK3,GH9
+186, endoglucanase O (EngO),3.2.1.4,Q6DTY2,GH9
+187," endo-β-1,4-glucanase (EngZ;NC1;Clocel_2741)",3.2.1.4,D9SRK9,GH9
+188," endo-β-1,4-glucanase K (EngK)",3.2.1.4,Q9RGE8,GH9
+189," endo-β-1,4-glucanase L (EngL; Clocel_2819)",3.2.1.4,"C5RQ37
+D9SS68
+Q9RGE6",GH9
+190," endo-β-1,4-glucanase M (EngM)",3.2.1.4,Q9LAJ2,GH9
+191," endo-β-1,4-glucanase Y (EngY)",3.2.1.4,Q9AQF4,GH9
+192," endo-β-1,4-glucanase H (EngH)",3.2.1.4,O65987,GH9
+193, endoglucanase 9A (CHU_1336) (Cel9A),3.2.1.4,"A0A6N4SQK1
+Q11VF8",GH9
+194, endoglucanase / cellulose-binding protein A / E1 (Cbpe1;CbpA),3.2.1.4,Q8RR29,GH9
+195, endoglucanase / cellulose-binding protein B (CbpB),3.2.1.4,Q402U6,GH9
+196," endo-1,4-glucanase A (EndA)",3.2.1.4,P23665,GH9
+197," endo-β-1,4-glucanase C (EgC;CMCase)",3.2.1.4,Q59442,GH9
+198," endo-β-1,4-glucanase B (EndB;EgB;Fisuc_0057;FSU_0451) (Cel9G)",3.2.1.4,"C9RJ28
+Q59444",GH9
+199," endo-1,4-glucanase D (CelD; Fisuc_1860; FSU_2362) (Cel9C)",3.2.1.4,"D9S4N9
+P77864",GH9
+200, endoglucanase 1 (CelE;End1;Fisuc_1859;FSU_2361) (Cel9B),3.2.1.4,"A7UG67
+P71326",GH9
+201," endo-β-1,4-glucanase 9A (CpCel9; cphy3367; Cphy_3367) (Cel9A)",3.2.1.4,A9KT90,GH9
+202, endocellulase (EgltA) (Cel9),3.2.1.4,Q9RAI8,GH9
+203," endo-β-1,4-glucanase B (CelB) (Cel9B)",3.2.1.4,Q9Z4I1,GH9
+204," endo-β-1,4-glucanase (Cel9P)",3.2.1.4,B7U9C9,GH9
+205, endoglucanase (fragment) (Cel9A),3.2.1.4,Q9APG3,GH9
+206," endo-β-1,4-glucanase (CelA)",3.2.1.4,Q9Z3X7,GH9
+207, cellulase 9R (Ccel_1648) (Cel9R),3.2.1.4,B8I2K6,GH9
+208, cellulase 9W (Ccel_2226) (Cel9W),3.2.1.4,B8I4R4,GH9
+209, cellulase 9U / cellulase 9S (Ccel_0755) (Cel9S=Cel9U),3.2.1.4,B8I7X6,GH9
+210, β-glucanase 9T (Ccel_1249) (Cel9T),3.2.1.4,B8I0N0,GH9
+211," endo-β-1,4-glucanase 9G (CelG; Ccel_0731) (Cel9G)",3.2.1.4,P37700,GH9
+212, cellulase 9Q (Ccel_0231) (Cel9Q),3.2.1.4,Q0PRN4,GH9
+213, cellulase 9P (P90; Ccel_0753) (Cel9P),3.2.1.4,Q0PRM9,GH9
+214, cellulase M (CelM;Ccel_0737) (Cel9M),3.2.1.4,"B8I7V9
+Q9EYQ2",GH9
+215, cellulase 9J (CelJ; Ccel_0735) (Cel9J),3.2.1.4,"B8I7V7
+Q9EYQ4",GH9
+216, cellulase 9H (CelH; Ccel_0734) (Cel9H),3.2.1.4,"B8I7V6
+Q9EYQ5",GH9
+217," endo-β-1,4-glucanase (GH9A;RUM_01230) (Cel9A)",3.2.1.4,D4L9U6,GH9
+218," endo-β-1,4-glucanase (GH9C;RUM_08690) (Cel9C)",3.2.1.4,D4LBQ2,GH9
+219," endo-β-1,4-glucanase (GH9D;RUM_14490) (Cel9D)",3.2.1.4,D4LD59,GH9
+220," endo-β-1,4-glucanase (GH9E;RUM_15950) (Cel9E)",3.2.1.4,D4LDI8,GH9
+221," endo-β-1,4-glucanase (GH9F;RUM_15960) (Cel9F)",3.2.1.4,D4LDI9,GH9
+222," endo-β-1,4-glucanase (GH9G;RUM_24010) (Cel9G)",3.2.1.4,D4LFJ4,GH9
+223," endo-1,4-glucanase I (Cel1)",3.2.1.4,Q05156,GH9
+224," endo-β-1,4-glucanase (E1;EGtf1;Tfu_1627) (Cel9B)",3.2.1.4,"Q08166
+Q47PF7",GH9
+225," endo/exo-β-1,4-glucanase 9A (E4;CelD;TfCel9A;Tfu_2176) (processive) (Cel9A)",3.2.1.4,"P26221
+Q47MW0",GH9
+226," endo-β-1,4-glucanase (ThCel9A) (Cel9A)",3.2.1.4,G4XKY7,GH9
+227," endo-β-1,4-glucanase Z / avicelase I (CelZ)",3.2.1.4,P23659,GH9
+228, endo-glucanase 9Z (Cel9Z; CelZ; Cst_c18960),3.2.1.4, ,GH9
+229," endo-β-1,4-glucanase (LScel4;LS4;Cel)",3.2.1.4,Q5NJL8,GH9
+230, cellulase (CelA2;BP-CelA2),3.2.1.4,H2BNN6,GH9
+231," endo-β-1,4-glucanase (UmCel9A) (Cel9A)",3.2.1.4,Q308B9,GH9
+232," endo-β-1,4-glucanase (UmCel9B) (Cel9B)",3.2.1.4,Q308B8,GH9
+233," endo-β-1,4-glucanase (UmCel9C) (Cel9C)",3.2.1.4,Q308B7,GH9
+234, cellulase (Lc-CelG),3.2.1.4,W8PF21,GH9
+235," endo-β-1,4-glucanase (Egl2;EngXCB)",3.2.1.4,Q9RBJ4,GH9
+236," endo-β-1,4-glucanase (AlCMCase;DJ013_18025)",3.2.1.4,A0A2Z4GG46,GH10
+237," endo-β-1,4-glucanase (BbCMCase;A2066_15670)",3.2.1.4,A0A1F3EZY1,GH10
+238," endo-β-1,4-glucanase (CqCMCase;ADICYQ_4013)",3.2.1.4,S7VBJ2,GH10
+239, cellulase (TCel6;Cmaq_1621),3.2.1.4,A8M9X3,GH12
+240," endo-β-1,4-glucanase A (EglA;EGPf;TCel1;PF0854) (Cel12)",3.2.1.4,"E7FHY8
+Q9V2T0",GH12
+241," endo-β-1,4-glucanase (SsGluC)",3.2.1.4, ,GH12
+242, cellulase (CelB;SSO2534),3.2.1.4,Q97VS7,GH12
+243, endoglucanase (SSO1354),3.2.1.4,Q97YG7,GH12
+244, endoglucanase (GuxA;Acel_0615),3.2.1.4,A0LSH8,GH12
+245, cellulase (Cel12;AcCel12B;Acel_0619) (Cel12B),3.2.1.4,A0LSI2,GH12
+246," endo-β-1,4-glucanase (Cel12A) (Cel12A)",3.2.1.4,Q7X4S4,GH12
+247, Rv1090 (Cel12) (possible fragment),3.2.1.4,O53438,GH12
+248," endo-1,4-glucanase S",3.2.1.4,P16630,GH12
+249," endo-1,4-glucanase B (CelB)",3.2.1.4,O31030,GH12
+250," endo-β-1,4-glucanase (CMCase; W5S_2949)",3.2.1.4,P16630,GH12
+251, cellulase A (CelA) (Cel12A),3.2.1.4,O33897,GH12
+252, STHERM_c20650,3.2.1.4,E0RQU3,GH12
+253," endo-β-1,4-glucanase (CelA2;Cel2)",3.2.1.4,O08468,GH12
+254," endo-β-1,4-glucanase (CelB;CelB2;EGI)",3.2.1.4,Q54331,GH12
+255," endo-β-1,4-glucanase S (EglS)",3.2.1.4,Q59963,GH12
+256, cellulase 12A (Cel12A),3.2.1.4,Q9KIH1,GH12
+257," endo-β-1,4-glucanase (Cel;CelStrep)",3.2.1.4,I7L8N7,GH12
+258," endo-β-1,4-glucanase S1 (CelS1)",3.2.1.4,Q9X602,GH12
+259," endo-β-1,4-glucanase (Cel)",3.2.1.4,D2D3J0,GH12
+260," endo-β-1,4-glucanase A (CelA;TmCel12A;TM1524;TM_1524;Tmari_1532) (Cel12A)",3.2.1.4,"G4FFR2
+Q60032
+Q9S5X8",GH12
+261," endo-β-1,4-glucanase B (CelB;TM1525) (Cel12B)",3.2.1.4,"G4FFR3
+Q60033
+Q7DF96",GH12
+262," endo-β-1,4-glucanase A (CelA)",3.2.1.4,"O08428
+P96491",GH12
+263," endo-β-1,4-glucanase B (CelB)",3.2.1.4,"P96492
+Q798L1",GH12
+264, cellulase (TCel2;Tpet_1267),3.2.1.4,A5IM58,GH12
+265, cellulase (TCel5;Tpet_1268),3.2.1.4,A5IM59,GH12
+266, endoglucanase (RSC-EG1),3.2.1.4,H9BVK4,GH12
+267, cellulase (Lc-CelA),3.2.1.4,W8PWF3,GH12
+268," endo-β-1,4-glucanase 1 (Cmc1;Cmc-1;FI CM-cellulase;FI-CMCase)",3.2.1.4,P22669,GH12
+269, endoglucanase (Cel12B),3.2.1.4,Q8NJY2,GH12
+270," endo-β-1,4-glucanase (CekA)",3.2.1.4,Q12679,GH12
+271," endo-β-1,4-glucanase (EglA;AnEglA)",3.2.1.4,O74705,GH12
+272," endo-β-1,4-glucanase (EglA;An14g02760)",3.2.1.4,A2R322,GH12
+273, endoglucanase,3.2.1.4,O74705,GH12
+274, endoglucanase A (EglA) (partial),3.2.1.4,D3YC02,GH12
+275," endo-β-1,4-glucanase (CelA)",3.2.1.4,O13454,GH12
+276," endo-β-1,4-glucanase (CelA;AO090026000102)",3.2.1.4,Q2UFR8,GH12
+277, endoglucanase (EglD;AtEglD;AtGH12;ATEG_09894),3.2.1.4,Q0C8U0,GH12
+278," endo-β-1,4-glucanase (AuCel12A) (Cel12A)",3.2.1.4,G1ETN1,GH12
+279, endoglucanase (Cel12A),3.2.1.4,Q8NJZ6,GH12
+280, endoglucanase (EG3; EG III),3.2.1.4, ,GH12
+281, endoglucanase (Cel12A),3.2.1.4,Q8NJZ1,GH12
+282, endoglucanase (Cel12B),3.2.1.4,Q8NJZ0,GH12
+283, endoglucanase (Cel12C),3.2.1.4,Q8NJY9,GH12
+284, endoglucanase (Cel12D),3.2.1.4,Q8NJY8,GH12
+285, endoglucanase (Cel12A),3.2.1.4,Q8NJZ5,GH12
+286, endoglucanase II (EG-II;Eg2;EG35) (Cel12),3.2.1.4,A4PID1,GH12
+287, endoglucanase (Cel12A),3.2.1.4,Q8NJZ4,GH12
+288, broad specificity endo-β-glucanase (fg11037;FGSG_11037) (7138),3.2.1.4, ,GH12
+289, broad specificity endo-β-glucanase (FGRAMPH1_01T25915; fg07892;FGSG_07892) (7048),3.2.1.4,I1RUJ7,GH12
+290, broad specificity endo-β-glucanase (fgd146-200;FGSG_16349) (7213),3.2.1.4, ,GH12
+291, endoglucanase (Cel12A),3.2.1.4,Q8NJZ3,GH12
+292, endoglucanase (Cel12B),3.2.1.4,Q8NJZ2,GH12
+293," endo-β-1,4-glucanase (Cel12g;GtCel12A) (Cel12A)",3.2.1.4,"F8T946
+P84196",GH12
+294, endoglucanase (Cel12A),3.2.1.4,Q8NJY3,GH12
+295, endoglucanase (Cel12A),3.2.1.4,Q8NJY6,GH12
+296, endoglucanase (Cel12A),3.2.1.4,Q8NJY7,GH12
+297, endoglucanase (PDE_06439) (Cel12A),3.2.1.4,S7ZMB4,GH12
+298, endoglucanase 28 (Cel12A),3.2.1.4,Q66NB6,GH12
+299, endoglucanase (Cel3A;CMCase3a;CMCase IIIa),3.2.1.4,Q50LE3,GH12
+300," endo-β-1,4-glucanase (PpCel12A) (partial) (Cel12A)",3.2.1.4,D7REW4,GH12
+301, β-glucanase (lichenase-like) (Cel12A),3.2.1.4,Q08HM8,GH12
+302, endoglucanase 1 (Eg1; EG1),3.2.1.4, ,GH12
+303," endo-β-1,4-glucanase 3 / III (Egl3;EG3;EGIII;ThEG3;ThEGIII) (Cel12A)",3.2.1.4,I3RY46,GH12
+304, endoglucanase (Cel12A),3.2.1.4,Q8NJY5,GH12
+305," endo-β-1,4-glucanase III (Egl3;EGIII;EG III;EG3;TrCel12A) (Cel12A)",3.2.1.4,O00095,GH12
+306, endoglucanase (Cel12A),3.2.1.4,Q8NJY4,GH12
+307, endoglucanase J (CelJ) (Cel9D-Cel44A),3.2.1.4,"A3DD30
+P71140",GH44
+308, bifunctional mannanase / endoglucanase (CbMan5A/Cel44A;Athe_1859;Cbes_1859;ORF1946) (Man5A-Cel44A),3.2.1.4,B9MKT9,GH44
+309," bifunctional β-mannanase / endo-β-1,4-glucanase (ManA)",3.2.1.4,P22533,GH44
+310," endo-β-1,4-glucanase A (CelA)",3.2.1.4,P29719,GH44
+311, cellulase (EndB),3.2.1.4,Q934F9,GH44
+312, cellulase (Lc-CelH),3.2.1.4,W8PBJ3,GH44
+313, endoglucanase (MgCel44) (Cel44),3.2.1.4,U5YC86,GH44
+314," endo-β-1,4-glucanase B / 45A (CelB;EGB;CJA_0374) (Cel45A)",3.2.1.4,"B3PI35
+P18126",GH45
+315," endo-β-1,4-glucanase (F45;Fisuc_1933;FSU_2443)",3.2.1.4,C9RIQ2,GH45
+316, endoglucanase B (GnuB),3.2.1.4,Q6XR86,GH45
+317, cellulase (Eng-2;ArENG2),3.2.1.4,A0A0E3Z7U1,GH45
+318," endo-β-1,4-glucanase (EG27I)",3.2.1.4,A7KME9,GH45
+319," endo-β-1,4-glucanase (EG27II)",3.2.1.4,A7KMF0,GH45
+320, cellulase 45A (AmCel-45A),3.2.1.4,K4GMG5,GH45
+321," endo-β-1,4-glucanase (GABY01019707.1)",3.2.1.4, ,GH45
+322, cellulase 21K (AkEG21;AkEG22),3.2.1.4,A0A077JGH0,GH45
+323, cellulase I (Ag-EGaseI),3.2.1.4,"Q5XQD1
+Q8I815",GH45
+324, endoglucanase II (Ag-EGaseII),3.2.1.4,Q6SS52,GH45
+325, glycoside hydrolase family 45 (Gh45-1),3.2.1.4,X2D5K6,GH45
+326, glycoside hydrolase family 45 (Gh45-2),3.2.1.4,X2D6C4,GH45
+327, cellulase I (Bh-EGaseI),3.2.1.4,A0A0F7NSK2,GH45
+328, endoglucanase (Eng2;Bx-eng-2),3.2.1.4,Q6BCL7,GH45
+329, endoglucanase (Eng3;Bx-Eng-3),3.2.1.4,Q6BCL3,GH45
+330, endoglucanase (Eng1;Bx-Eng-1),3.2.1.4,"K4F7Y8
+K4FA32
+Q6BCM1
+Q6BCN0",GH45
+331, endoglucanase (EG5;EG V) (Cel45A),3.2.1.4, ,GH45
+332," endo-β-1,4-glucanase (CjCel45A) (Cel45A)",3.2.1.4,B9X0W0,GH45
+333," endo-β-1,4-glucanase",3.2.1.4, ,GH45
+334," endo-β-1,4-glucanase (Cel;CaCel)",3.2.1.4,D3GDK4,GH45
+335," endo-β-1,4-glucanase (DVI2)",3.2.1.4,A0A4D6Q326,GH45
+336," endo-β-1,4-glucanase (DVI1;DvvENGaseI)",3.2.1.4,I1VZE8,GH45
+337, endoglucanase (FpCel45A) (Cel45A),3.2.1.4, ,GH45
+338," endo-β-1,4-glucanase (Gh45-2)",3.2.1.4, ,GH45
+339," endo-β-1,4-glucanase (GLOTRDRAFT_59933)",3.2.1.4, ,GH45
+340," endo-β-1,4-glucanase (Egl3)",3.2.1.4,"O93782
+P43316",GH45
+341," endo-β-1,4-glucanase IV (Egl4;EGIV)",3.2.1.4,O93783,GH45
+342," endo-β-1,4-glucanase V (EGV;EG V;NCE5) (Cel45A)",3.2.1.4,P43316,GH45
+343," endo-β-1,4-glucanase (PAS_chr4_0643) (Cel45A)",3.2.1.4,C4R8H7,GH45
+344," endo-β-1,4-glucanase (DIV10)",3.2.1.4,A0A4D6Q7T7,GH45
+345," endo-β-1,4-glucanase (LDE6)",3.2.1.4,E7CIY8,GH45
+346," endo-β-1,4-glucanase (Cel45A)",3.2.1.4, ,GH45
+347, endoglucanase (Fm1;HG 67-5),3.2.1.4,Q7YZU0,GH45
+348, endoglucanase (Fm3),3.2.1.4,Q7YZT8,GH45
+349, endoglucanase (Fm4),3.2.1.4,Q7YZT7,GH45
+350, endoglucanase (Fm2),3.2.1.4,Q7YZT9,GH45
+351," endo-β-1,4-glucanase (MaCel45A) (Cel45A)",3.2.1.4,Q8J0K8,GH45
+352," endo-β-1,4-glucanase (Mce1)",3.2.1.4,Q53VB3,GH45
+353," endo-β-1,4-glucanase (Mce2)",3.2.1.4,Q53VB2,GH45
+354, endoglucanase (Eg),3.2.1.4,"P82186
+Q95P02",GH45
+355, endoglucanase (NcCel45A;NCU05121.1) (Cel45A),3.2.1.4,"Q1K5M0
+Q872Q1",GH45
+356, endoglucanase V / 45A (EG V;PdCel45A) (Cel45A),3.2.1.4,B5AKD1,GH45
+357," endo-β-1,4-glucanase (EG)",3.2.1.4,O97401,GH45
+358," endo-β-1,4-glucanase (PCO1)",3.2.1.4,K4QDH6,GH45
+359, cellulase (Ghf45eg-1) (fragment),3.2.1.4,T1WGL7,GH45
+360, cellulase (Ghf45eg-2),3.2.1.4,T1WFT4,GH45
+361, endoglucanase V (EGV;PcCel45A) (Cel45A),3.2.1.4,"B3Y002
+G0ZPJ6",GH45
+362," endo-β-1,4-glucanase (Pce1)",3.2.1.4,Q5R230,GH45
+363, endoglucanase 45A (Cel45A),3.2.1.4,Q9P868,GH45
+364, endoglucanase (RsSym45eg1;RsSymEG2;SM2038B84),3.2.1.4,"A4UWR4
+Q9JH92",GH45
+365, RrCel45,3.2.1.4,A0A2U8LMQ2,GH45
+366," endo-β-1,4-glucanase (Rce1;RCE I)",3.2.1.4,Q8J1L2,GH45
+367," endo-β-1,4-glucanase (Rce2; RCE II)",3.2.1.4,Q8J1L1,GH45
+368," endo-β-1,4-glucanase (Rce3; RCE III)",3.2.1.4,Q8J1L0,GH45
+369," endo-β-1,4-glucanase (EG2)",3.2.1.4, ,GH45
+370, sscle_01g005720,3.2.1.4,A0A1D9PTE7,GH45
+371, endoglucanase I (EgI),3.2.1.4,Q7M4T4,GH45
+372," endo-β-1,4-glucanase (SOR1)",3.2.1.4,E7CIN4,GH45
+373," endo-β-1,4-glucanase(SOR2)",3.2.1.4,E7CIN5,GH45
+374," endo-β-1,4-glucanase (Stce1)",3.2.1.4,B5BNY1,GH45
+375, endoglucanase (CBH I),3.2.1.4,A7UGD9,GH45
+376," endo-?-1,4-glucanase (Cbh45-1)",3.2.1.4, ,GH45
+377," endo-β-1,4-glucanase (MYCTH_76901)",3.2.1.4, ,GH45
+378," endo-β-1,4-glucanase (THITE_2110957)",3.2.1.4,G2QVH7,GH45
+379, β-1_4-endoglucanase (Cel45),3.2.1.4, ,GH45
+380, endoglucanase V (EGV) (Cel45A),3.2.1.4,P43317,GH45
+381, endoglucanase V (EGV),3.2.1.4,Q7Z7X0,GH45
+382, NT0285A89,3.2.1.4,A4UWU6,GH45
+383, SM2765A61,3.2.1.4,A4UX40,GH45
+384, SM2760A28,3.2.1.4,A4UX33,GH45
+385, SM2030A92,3.2.1.4,A4UWR3,GH45
+386, SM2042A70,3.2.1.4,A4UWR5,GH45
+387," endo-1,4-glucanase 1 (Egl1)",3.2.1.4,P54424,GH45
+388,"  endo-β-1,4-glucanase (Clocl_4007)",3.2.1.4,G8M3C3,GH48
+389," endo-β-1,4-glucanase Y (CelY;Cthe_0071) (Cel48B=Cel48Y)",3.2.1.4,A3DBI3,GH48
+390, cellulase (BLi01881 / BL01231;CelB),3.2.1.4, ,GH48
+391, cellulase (HCH_02465),3.2.1.4,Q2SJA2,GH48
+392," β-1,4-glucanase (CelA4) (acidic)",3.2.1.4,D7PI32,GH51
+393, endoglucanase (CelVA),3.2.1.4,A0A0F7TAS1,GH51
+394, endoglucanase 2 / F (Eg2;CelF;EgF;CBP-4;Fisuc_3111;FSU_0382) (Cel51A),3.2.1.4,"C9RQE4
+P71329
+P77865",GH51
+395," endo-β-1,4-glucanase (SScel24;Lambda;Cel)",3.2.1.4,Q5NJL7,GH51
+396, cellulase (Lc-CelC),3.2.1.4,W8PBI6,GH51
+397," endo-β-1,4-glucanase (TM0305) (Cel74)",3.2.1.4,"Q9WYE1
+R4NXV8",GH74
+398," endo-β-1,4-glucanase (CtCel124;Cthe_0435) (Cel124A)",3.2.1.4,A3DCJ4,GH124
+399," endo-β-1,4-glucanase active on Konjac glucomannan (L483_17815)",3.2.1.4,R9V682,GH148
+400," endo-β-1,4-glucanase active on Konjac glucomannan (TERTU_3477)",3.2.1.4,C5BRA3,GH148
+401, cellobiohydrolase A (CbhA;Celf_1925) (Cel6B),3.2.1.91,P50401,GH6
+402, cellobiohydrolase 6A (CJA_2473) (Cel6A),3.2.1.91,B3PKK5,GH6
+403, exoglucanase (CbhII),3.2.1.91,Q8VLR1,GH6
+404," bifunctional β-1,4-endoglucanase / cellobiohydrolase (CelAB)",3.2.1.91,A9Q634,GH6
+405, cellobiohydrolase 6B / exoglucanase (E3;Ex;Tfu_0620) (Cel6B),3.2.1.91,"Q47SA9
+Q60029
+Q9KH72",GH6
+406, cellobiohydrolase II (Cel3;Cel3A),3.2.1.91,P49075,GH6
+407, cellobiohydrolase 6A (AfCel6A; AFUA_3G01910; Afu3g01910),3.2.1.91, ,GH6
+408, cellobiohydrolase II (CBHII;AN5282.2),3.2.1.91,Q5B2E8,GH6
+409, cellobiohydrolase 6A (AtCel6A; ATEG_00193) (Cel6A),3.2.1.91, ,GH6
+410, cellobiohydrolase II (Cel7;Cbh7;Cbh2;ChCbh2),3.2.1.91,Q8J215,GH6
+411, cellobiohydrolase (EG6;CBH IIa) (Cel6A),3.2.1.91, ,GH6
+412, cellobiohydrolase 6A (CgCel6A; GLRG_08518) (Cel6A),3.2.1.91, ,GH6
+413, cellobiohydrolase 6B (CgCel6B; GLRG_00951) (Cel6B),3.2.1.91, ,GH6
+414, cellobiohydrolase (CcCel6A) (Cel6A),3.2.1.91,B7X9Z0,GH6
+415, cellobiohydrolase (CcCel6B) (Cel6B),3.2.1.91,B7X9Z1,GH6
+416, cellobiohydrolase (CcCel6C) (Cel6C),3.2.1.91,B7X9Z2,GH6
+417, cellobiohydrolase II (Cel6A),3.2.1.91,A0A0U3CB12,GH6
+418, cellobiohydrolase / avicelase 2 (CBHII;Avi2) (Cel6A),3.2.1.91,Q9C1S9,GH6
+419, cellobiohydrolase II (Cel4;Ex-4;Cex3),3.2.1.91,B2ZZ24,GH6
+420, cellobiohydrolase (CbhII-1),3.2.1.91,Q9C1R4,GH6
+421, cellobiohydrolase II (LsCel6A) (Cel6A),3.2.1.91, ,GH6
+422, cellobiohydrolase (Cel6A),3.2.1.91, ,GH6
+423, cellobiohydrolase A (CelA;Cbh6) (Cel6A),3.2.1.91,"B0FEV4
+B6EA50
+Q12646",GH6
+424, cellobiohydrolase (CelA),3.2.1.91,Q6EIY8,GH6
+425, exoglucanase (W5-CAT6-9),3.2.1.91,H2BPT3,GH6
+426, exoglucanase (W5-10151-39),3.2.1.91,H2BPT8,GH6
+427, exoglucanase (W5-10151-38),3.2.1.91,H2BPT9,GH6
+428, exoglucanase (W5-10151-5),3.2.1.91,H2BPU0,GH6
+429, exoglucanase (W5-10151-6),3.2.1.91,H2BPU1,GH6
+430, cellobiohydrolase II (CelF),3.2.1.91,"Q874D8
+Q874E0",GH6
+431, exp-cellulase C16 (CelC16),3.2.1.91,V9I1G2,GH6
+432, cellobiohydrolase II (Cbh2;CbhII;PdCel6A) (Cel6A),3.2.1.91,F1CHI2,GH6
+433, cellobiohydrolase 3 (Cbh3;PoCel6A) (fragment) (Cel6A),3.2.1.91,A0A088STL5,GH6
+434, cellobiohydrolase II (CbhII;Cbh2) (Cel6A),3.2.1.91,Q02321,GH6
+435, cellobiohydrolase II (Cbh6A),3.2.1.91,F2VRZ0,GH6
+436, cellobiohydrolase (Cbh6) (Cel6A),3.2.1.91,Q9UW10,GH6
+437, exoglucanase 6A (Cel6A),3.2.1.91,Q874K3,GH6
+438, exoglucanase 6A (Cel6A),3.2.1.91,Q7Z7X6,GH6
+439, cellobiohydrolase (PaCel6A;Pa_0_1250) (Cel6A),3.2.1.91,B2ABX7,GH6
+440, cellobiohydrolase (MoCel6A;MG05520.4) (Cel6A),3.2.1.91,G4MM92,GH6
+441, cellobiohydrolase II (CbhII;Cbh2),3.2.1.91,Q8NIB5,GH6
+442, cellobiohydrolase (Cel6A),3.2.1.91, ,GH6
+443, cellulase / cellobiohydrolase 6A (TfCel6A) (Cel6A),3.2.1.91, ,GH6
+444, cellobiohydrolase II (Acc2) (Cel6A),3.2.1.91,O93837,GH6
+445, cellobiohydrolase (Cbh2;CtCbh2) (Cel6A),3.2.1.91,"G0SD43
+Q4JQF8
+Q5G2D4",GH6
+446, cellobiohydrolase (Cbh2b;ClCbh2;MYCTH_66729),3.2.1.91,G2QA39,GH6
+447, cellobiohydrolase (CBH-II) (Cel6A),3.2.1.91, ,GH6
+448, cellobiohydrolase II (CbhII),3.2.1.91,Q66PN1,GH6
+449, cellobiohydrolase II (CBHII; Cbh2; CBH-II; TrCel6A; HjCel6A; TrCbh2) (Cel6A),3.2.1.91,"P07987
+Q9HEY8",GH6
+450, cellobiohydrolase II (CbhII;Cbh2),3.2.1.91,Q6UJX9,GH6
+451, cellobiohydrolase II-I (CbhII-I;Cbh2;VvCbh2),3.2.1.91,Q6E5B1,GH6
+452, cellobiohydrolase (hmcel6α-3snp),3.2.1.91, ,GH6
+453, cellobiohydrolase (G10-6) (partial),3.2.1.91,D8VN70,GH6
+454, cellobiohydrolase (CbhA;Cthe_0413) (Cbh9A),3.2.1.91,"A3DCH2
+Q59325
+Q6RSN8",GH9
+455, cellobiohydrolase A (CbhA) (Cbh9A),3.2.1.91,"Q59325
+Q7B3G3",GH9
+456, cellulase 9E (CelE; Ccel_0732) (Cel9E),3.2.1.91,"B8I7V4
+Q46002",GH9
+457, cellobiohydrolase (CGSCsYakCAS_04820) (Cel48A),3.2.1.91,D2KFJ0,GH48
+458, Cmaq_0408,3.2.1.21,A8MBR0,GH1
+459, Cmaq_0652,3.2.1.21,A8MCI6,GH1
+460, β-glucosidase (BglA;PF0442) (Cel1B),3.2.1.21,"E7FI48
+Q9HHB3",GH1
+461, alkyl β-glucosidase (membrane-bound) (BGPh;BglA;PH0366),3.2.1.21,O58104,GH1
+462, β-glycosidase (Bgly;SSG),3.2.1.21,P50388,GH1
+463, β-glucosidase (BglT),3.2.1.21,O08324,GH1
+464, β-glucosidase (Tα-β-gly;Gly),3.2.1.21,Q9YGA8,GH1
+465, exo-β-glucosidase 1A (BglA; β-G;Cthe_0212) (Glc1A),3.2.1.21,P26208,GH1
+466, Acel_0133,3.2.1.21,A0LR48,GH1
+467, β-glucosidase (Abg),3.2.1.21,P12614,GH1
+468, β-glucosidase (AacGH1),3.2.1.21, ,GH1
+469, Aflv_2360,3.2.1.21,B7GM33,GH1
+470, β-glucosidase (BglZ),3.2.1.21,J9ZZW8,GH1
+471, BLi04199 / BL01946,3.2.1.21,Q65D52,GH1
+472, β-glucosidase (Bgl1A; BsBgl1A),3.2.1.21, ,GH1
+473, β-glucosidase A,3.2.1.21,Q9ZNN7,GH1
+474, β-glucosidase / cellodextrinase (CldC; Bbr_0109),3.2.1.21,F1LL52,GH1
+475, β-glucosidase / cellodextrinase (CbBgl1A;CbCdx1A;Athe_0458) (Bgl1A=Cdx1A),3.2.1.21,B9MNR1,GH1
+476, β-glucosidase (Bgl13;Calkr_2207),3.2.1.21,E4S6B1,GH1
+477, β-glucosidase A (BglA),3.2.1.21,P10482,GH1
+478, β-glucosidase (BglA;Csac_1089),3.2.1.21,A4XIG7,GH1
+479, β-glucosidase (BlgA),3.2.1.21,I7DLX2,GH1
+480, CCNA_02220,3.2.1.21,"A0A0H3C9V1
+B8GXX8",GH1
+481, cellobiase (Cba3),3.2.1.21,G1C1T5,GH1
+482, β-glucosidase (CfBgl1;Celf_2783),3.2.1.21,F4H7E6,GH1
+483, Cfla_1084,3.2.1.21,D5ULE7,GH1
+484, Rsph17025_1146,3.2.1.21,A4WRN3,GH1
+485, β-glucosidase A (BglA;BG),3.2.1.21,Q53EH2,GH1
+486, Deide_00550,3.2.1.21,C1CXP6,GH1
+487, β-glucosidase A (BglA;DP2448),3.2.1.21,Q6AKE8,GH1
+488, β-glucosidase (DtGH;DICTH_1689),3.2.1.21,B5YAN1,GH1
+489, β-glucosidase (Dtur_0462),3.2.1.21,B8E1X9,GH1
+490, β-glucosidase (BglA;EaBglA;EaBgl1A;Eab7_0297),3.2.1.21,K0A8J9,GH1
+491, EAT1b_2183,3.2.1.21,C4L1S4,GH1
+492, β-glucosidase (BglA),3.2.1.21,E0X9H4,GH1
+493, β-glucosidase (FiBgl1A) (Bgl1A),3.2.1.21,G8YZD7,GH1
+494, Fnod_1558,3.2.1.21,A7HNB8,GH1
+495, β-glucosidase (BglA),3.2.1.21,Q8GKQ8,GH1
+496, HCH_06907,3.2.1.21,Q2S749,GH1
+497, β-glucosidase (BglA;BH1923),3.2.1.21,Q9KBK3,GH1
+498, β-glucosidase A (BglA;HoBGLA;Hore_15280),3.2.1.21,B8CYA8,GH1
+499, β-glucosidase (BglD5; JMA_34740),3.2.1.21, ,GH1
+500, amb0219,3.2.1.21,Q2WAV2,GH1
+501, β-glucosidase (BglM1;Mmwyl1_4295) (cold-active),3.2.1.21,A6W3B1,GH1
+502, Mrub_0288,3.2.1.21,D3PLV5,GH1
+503, MCA1578 (Bgl),3.2.1.21,Q608B9,GH1
+504, β-glucosidase (Glu1A; MaGlu1A),3.2.1.21, ,GH1
+505, β-glucosidase (Bgl;TpBgl;Tpen_1494),3.2.1.21,A1S0B1,GH3
+506, β-glucosidase B (BglB;Cthe_1256),3.2.1.21,P14002,GH3
+507, β-glucosidase B (BglB),3.2.1.21,P14002,GH3
+508, β-glucosidase (BglAm;Amir_2978),3.2.1.21,C6WRQ6,GH3
+509, β-glucosidase (EryBI),3.2.1.21,Q5Y9H4,GH3
+510, β-glucosidase B,3.2.1.21,Q9ZNN6,GH3
+511, β-glucosidase (P43-9H:P46-4G),3.2.1.21,F1CYL1,GH3
+512, β-glucosidase (P69-9E),3.2.1.21,F1CYM8,GH3
+513, β-glucosidase (BACOVA_02738; Bovatus_03146; Bglx_6),3.2.1.21,A7LY22,GH3
+514, β-glucosidase (Bovatus_01321; Bglx_1;BACOVA_00625 ZP_02063674.1),3.2.1.21, ,GH3
+515, Bovatus_03424 (Bglb_4; revised model of BACOVA_00946 ZP_02063987.1),3.2.1.21, ,GH3
+516, β-glucosidase (BoGH3MLG; BACOVA_02745; Bovatus_03153),3.2.1.21,A7LY29,GH3
+517, β-glucosidase (Bglb_3;BoGH3A;BACOVA_02644;Bovatus_03064),3.2.1.21, ,GH3
+518, β-glucosidase (Bglx_5;BoGH3B;BACOVA_02659;Bovatus_03075),3.2.1.21,A7LXU3,GH3
+519, β-glucosidase (BT3314;BT_3314),3.2.1.21,Q8A2J1,GH3
+520, β-glucosidase (Bgl8;BuBGL8) (partial),3.2.1.21,T1WEH3,GH3
+521, β-glucosidase (BAD_1194),3.2.1.21,A1A2P2,GH3
+522, β-glucosidase (BglX),3.2.1.21,F1DPQ8,GH3
+523, β-glucosidase (BLNIAS_00597; Bglx2),3.2.1.21,F8ATF7,GH3
+524, β-glucosidase A (BglA),3.2.1.21,P16084,GH3
+525, β-glucosidase (GH3-1),3.2.1.21, ,GH3
+526, β-glucosidase (GH3-2),3.2.1.21, ,GH3
+527, β-glucosidase (Cba),3.2.1.21,O51843,GH3
+528, β-glucosidase (CfBgl3A;Celf_0140) (Bgl3A),3.2.1.21,F4H4T8,GH3
+529, β-glucosidase (CfBgl3B;Celf_0468) (Bgl3B),3.2.1.21,F4H851,GH3
+530, β-glucosidase (BglA) (fragment),3.2.1.21,J7H3I9,GH3
+531, β-glucosidase (CgB),3.2.1.21,P96316,GH3
+532, β-glucosidase (CMM_0947),3.2.1.21,A5CPI7,GH3
+533, β-glucosidase A (BglA; CHU_2268),3.2.1.21, ,GH3
+534, β-glucosidase B (BglB; CHU_2273),3.2.1.21, ,GH3
+535, β-glucosidase / β-glycosidase (Dtur_0219),3.2.1.21,B8E1M3,GH3
+536, β-glucosidase (Bgl;Fbgl;FmBGL),3.2.1.21,O30713,GH3
+537, β-glucosidase (BglX),3.2.1.21,P33363,GH3
+538, β-glucosidase (FgBgl3A) (Bgl3A),3.2.1.21,K9URL4,GH3
+539, Fisuc_2065 / FSU_2592,3.2.1.21,C9RJD5,GH3
+540, β-glucosidase (BglF3;Fjoh_0775),3.2.1.21,A5FLV3,GH3
+541, β-glucosidase (BglBX10;Fjoh_3392),3.2.1.21,A5FEF5,GH3
+542, β-glucosidase (GOTRE_010_00060) (possible fragment),3.2.1.21, ,GH3
+543, β-glucosidase (BglxA),3.2.1.21,Q8RTY7,GH3
+544, β-glucosidase (LVIS_1961),3.2.1.21,Q03P52,GH3
+545, β-glucosidase (Gluc3M),3.2.1.21,D3Y125,GH3
+546, ginsenoside β-glucosidase (Bgp3),3.2.1.21,H2DGJ4,GH3
+547, ginsenoside β-glucosidase (Bgp1),3.2.1.21,H2DGJ3,GH3
+548, ginsenoside β-glucosidase (BglQM;Bgl-QM49-1),3.2.1.21,J9Y3X3,GH3
+549, β-glucosidase (SalB),3.2.1.21,Q9RH02,GH3
+550, β-glucosidase (SalA),3.2.1.21,Q9RH03,GH3
+551, cellobiase (CelA),3.2.1.21,Q9F0N9,GH3
+552, β-glucosidase (SBGL),3.2.1.21,S5R8R0,GH3
+553, β-glucosidase (OENOO_34001),3.2.1.21,A0NHN3,GH3
+554, β-glucosidase (PstG;PSTG),3.2.1.21,D6RVX0,GH3
+555, β-glucosidase (BglY),3.2.1.21,Q58PF3,GH3
+556, β-glucosidase (BglA),3.2.1.21,H9A9K3,GH3
+557, β-glucosidase (BglPC28;BglG1537b),3.2.1.21,L0EKB3,GH3
+558, β-glucosidase (Avin_07130),3.2.1.21,C1DLL5,GH5
+559, β-glucosidase active on pNP-β-D-cellobioside (F592DRAFT_01930),3.2.1.21,A0A0F5JMG3,GH30
+560, β-glucosidase / β-xylosidase (Bgx1),3.2.1.21,Q9AT27,GH30
+561, β-glucosidase (TxGH116;Thexy_2211),3.2.1.21,F6BL85,GH116
+562, endoxylanase (ORF1299;BACEGG_01299) (BeXyn5A),3.2.1.8,B7AFX5,GH5
+563," endo-β-1,4-xylanase (BiXyn5A;ORF4213;BACINT_04213) (Xyn5A)",3.2.1.8,B3CET2,GH5
+564, xylanase Y (XylY),3.2.1.8,O52730,GH8
+565," endo-β-1,4-xylanase (BiXyn8A;BACINT_04210) (Xyn8A)",3.2.1.8,B3CES9,GH8
+566, β-xylanase (OtXyn8A;Oter_4314) (Xyn8A),3.2.1.8,B1ZP97,GH8
+567, endo-β-xylanase (XynB),3.2.1.8,H2BKX6,GH8
+568," endo-β-1,4-xylanase (Xyn8)",3.2.1.8,F2QKE3,GH8
+569, Patl_1069,3.2.1.8,Q15WZ3,GH8
+570," endo-β-1,4-xylanase (Xyl;XPH)",3.2.1.8,Q8RJN8,GH8
+571," endo-β-1,4-xylanase (XYL6806)",3.2.1.8,Q6QHA3,GH8
+572, xylanase (Xyn8) (Xyn8),3.2.1.8,Q0H3C1,GH8
+573, xylanase Z / feruloyl esterase (XynZ;LX3;CtGH10),3.2.1.8,P10478,GH10
+574, xylanase C (XynC;Cthe_1838) (Xyn10C),3.2.1.8,A3DGI0,GH10
+575, xylanase Z / feruloyl esterase (XynZ;Cthe_1963;E-FAERU) (Xyn10Z),3.2.1.8,P10478,GH10
+576, xylan- and cellulose-specific sensor (RsgI6;Cthe_2119),3.2.1.8,"A3DH97
+H6SHY0",GH10
+577," β-1,4-xylanase (XynD;Cthe_2590) (Xyn10D)",3.2.1.8,A3DIL1,GH10
+578, xylanase C (XynC) (Xyn10C),3.2.1.8,O32374,GH10
+579," β-1,4-xylanase (XynD) (Xyn10D)",3.2.1.8,Q70DK4,GH10
+580, xylanase Y / feruloyl esterase (XynY;LX5) (Xyn10B),3.2.1.8,P51584,GH10
+581, xylanase (Xyn),3.2.1.8,Q9AJR9,GH10
+582, xylanase 10B (Acel_0180) (Xyn10B),3.2.1.8,A0LR95,GH10
+583, endo-xylanase (Acel_0372) (Xyn10A),3.2.1.8,A0LRT6,GH10
+584, xylanase E (XynE),3.2.1.8,Q9Z485,GH10
+585, xylanase X (XynX),3.2.1.8,O83007,GH10
+586, xylanase (XynA4),3.2.1.8,D3VWB5,GH10
+587," endo-β-1,4-xylanase (XynA4-2)",3.2.1.8,E2EAK3,GH10
+588," β-1,4-xylanase (XynT)",3.2.1.8,Q6TDT4,GH10
+589, xylanase (XynE2),3.2.1.8,D7NNK8,GH10
+590," β-1,4-xylanase (XynK)",3.2.1.8,Q8L2X3,GH10
+591, xylanase A (XyaA),3.2.1.8,Q45518,GH10
+592, endoxylanase (XynA;XynAHJ14),3.2.1.8,A0A0C4JZH7,GH10
+593," endo-β-1,4-xylanase (XynA;XynAHJ2)",3.2.1.8,I6PB27,GH10
+594, xylanase (Xyn10),3.2.1.8,D7RA44,GH10
+595, xylanase (BSX),3.2.1.8,O30700,GH10
+596, xylanase (Xyn10A),3.2.1.8,L0CL88,GH10
+597," endo-β-1,4-xylanase (Xyn3F) (partial)",3.2.1.8,K0H4D9,GH10
+598," endo-β-1,4-xylanase (BiXyn10C;BACINT_04197) (Xyn10C)",3.2.1.8,B3CER6,GH10
+599," endo-β-1,4-xylanase (BiXyn10C;BACINT_04197) (Xyn10C)",3.2.1.8,B3CER6,GH10
+600," bifunctional endo-β-1,4-xylanase / α-L-arabinofuranosidase (BiXyn10B/BiAra43A;BACINT_04202) (Xyn10B/Ara43A)",3.2.1.8,B3CES1,GH10
+601," endo-β-1,4-xylanase (BiXyn10A, BACINT_04215) (Xyn10A)",3.2.1.8,B3CET4,GH10
+602," endo-β-1,4-xylanase (BiXyn10A, BACINT_04215) (Xyn10A)",3.2.1.8,B3CET4,GH10
+603, xylanase A (XylI),3.2.1.8,"B2KZK5
+P49942",GH10
+604, xylanase 10A (pseudogene BXY_46600) (Xyn10A),3.2.1.8,D6CGY9,GH10
+605, xylanase A,3.2.1.8,P23551,GH10
+606, xylanase B (XynB),3.2.1.8,P26223,GH10
+607," β-1,4-xylanase (ORF2504) (Xyn10A)",3.2.1.8,J7JXS8,GH10
+608, xylanase (XynA),3.2.1.8,Q9L8L8,GH10
+609, xylanase (Cb193;CbXyn10A;Athe_0183),3.2.1.8,B9MMA3,GH10
+610, xylanase (Cb195;CbXyn10A;CbXyn10B;Athe_0185) (Xyn10A=Xyn10B),3.2.1.8,B9MMA5,GH10
+611, xylanase (CoXynA;Calow_0124),3.2.1.8,E4Q2A4,GH10
+612, xylanase A (XynA;Orf1),3.2.1.8,P23556,GH10
+613, xylanase E (XynE),3.2.1.8,O30427,GH10
+614, Csac_2408 (XynA),3.2.1.8,A4XM50,GH10
+615, xylanase (XynE;Csac_2410),3.2.1.8,A4XM52,GH10
+616, xylanase (XynB;Ca_GH10),3.2.1.8,I7D8W6,GH10
+617, xylanase B (XynB),3.2.1.8,O52373,GH10
+618, xylanase C (XynC) (multidomain protein),3.2.1.8,O52374,GH10
+619, xylanase A (XynA),3.2.1.8,P40944,GH10
+620," bifunctional β-1,4-xylanase / α-L-arabinosidase (XynA)",3.2.1.8,Q9X3P5,GH10
+621, xylanase B / 10A (Cex;Exg;XynB;Celf_1271) (Xyn10A),3.2.1.8,"F2XFS7
+F4H454
+P07986
+Q59277",GH10
+622, xylanase C (XynC;XylC),3.2.1.8,Q59278,GH10
+623," β-1,4-xylanase (Cfx)",3.2.1.8,Q3YAW6,GH10
+624, xylanase (CGSCsYakCAS_10610) (Xyn10A),3.2.1.8,D2KFJ4,GH10
+625," endo-β-1,4-xylanase",3.2.1.8,T2M1V1,GH10
+626, xylanase (XylA),3.2.1.8,B2BZ80,GH10
+627, xylanase (XylK1;XylK-1),3.2.1.8,D1GET5,GH10
+628, xylanase B /10B (XynB;XylB;CJA_3280) (Xyn10B),3.2.1.8,"B3PEH8
+P23030",GH10
+629, xylanase F / 10C (Xyl10C;CJA_3066) (Xyn10C),3.2.1.8,"B3PDA8
+Q59675",GH10
+630, xylanase G /10D (CJA_2888) (Xyn10D),3.2.1.8,"B3PC74
+Q9RBZ5",GH10
+631, xylanase A / 10A (XynA;XylA;Xyl10A;CjXyn10A;CJA_2471) (Xyn10A),3.2.1.8,"B3PKK3
+P14768",GH10
+632, xylanase B (XylB),3.2.1.8,Q59301,GH10
+633, xylanase C / 10B (XylC;XynC;Xyl10B) (Xyn10B),3.2.1.8,O68541,GH10
+634, xylanase 10B (CAP0116) (Xyn10B),3.2.1.8,Q97TI5,GH10
+635, xylanase (CAP0053) (Xyn10A),3.2.1.8,Q97TP5,GH10
+636, xylanase B (XynB),3.2.1.8,Q6J286,GH10
+637, xylanase (iXylC),3.2.1.8,D5KTJ5,GH10
+638, xylanase 10A (Xyn10A),3.2.1.8,Q6U892,GH10
+639," endo-β-1,4-xylanase (Mxyn10)",3.2.1.8,B9VSZ3,GH10
+640, xylanase (XynA),3.2.1.8,Q12603,GH10
+641, xylanase (LX6;Dtur_1647) (partial),3.2.1.8,B8E346,GH10
+642, xylanase,3.2.1.8,Q47871,GH10
+643, xylanase E (XynE;Xyn10M;Fisuc_1793;FSU_2293) (Xyn10E),3.2.1.8,"Q9F108
+Q9F4K9",GH10
+644, xylanase D (XynD;Xyn10L;Fisuc_1791;FSU_2292) (Xyn10D),3.2.1.8,"Q9F109
+Q9F4L0",GH10
+645, xylanase B (XynB;Fisuc_1794;FSU_2294) (Xyn10B),3.2.1.8,"C9RS51
+D9S458
+Q9F107",GH10
+646," endo-β-1,4-xylanase (Fjoh_3866) (Xyn10A)",3.2.1.8,A5FD49,GH10
+647, xylanase (Xyn-FLA),3.2.1.8,C0M1B6,GH10
+648, xylanase (XFH;Xyn10),3.2.1.8,Q288H9,GH10
+649, thermostable xylanase (XyzGeo71),3.2.1.8,G3G7L3,GH10
+650, xylanase,3.2.1.8,D0EM78,GH10
+651, xylanase (XynA;XylA),3.2.1.8,B5M201,GH10
+652," endo-β-1,4-xylanase (I656_02756)",3.2.1.8,S7U0J0,GH10
+653," endo-β-1,4-xylanase (XynA)",3.2.1.8,L7XJX2,GH10
+654, xylanase A (XynA;LX2),3.2.1.8,P45703,GH10
+655," endo-β-1,4-xylanase 22 (ET31_03035)",3.2.1.8, ,GH10
+656, xylanase,3.2.1.8,Q3YBZ9,GH10
+657, xylanase (XynA2;IXT6;HUS_CDS61) (intracellular),3.2.1.8,"Q09LY9
+Q9ZFM8",GH10
+658, xylanase T-6 (XynA;XT6;XynA2;HUS_CDS83),3.2.1.8,P40943,GH10
+659, extracellular xylanase (GthAK53Xyl),3.2.1.8,"A0A0B4UJS8
+A0A0B4UJV3",GH10
+660, xylanase (GeXyl),3.2.1.8,G5CKS2,GH10
+661, xylanase (LX1) (thermostable),3.2.1.8,B2Z4E4,GH10
+662, endoxylanase (XynA;GtXynA1;GTHT12_01347),3.2.1.8,G5CKS2,GH10
+663, endoxylanase,3.2.1.8,G5CKS2,GH10
+664, xylanase (Xyl;Xyl-gt),3.2.1.8,G9IJ64,GH10
+665, xylanase A (XynA;XylA;BH2120),3.2.1.8,P07528,GH10
+666," alkaline endo-β-1,4-xylanase 10AY (XynAS;Xyn10AY) (Xyn10A)",3.2.1.8,"P07528
+Q17TM8",GH10
+667, xylanase A or U / acetylxylan esterase (XynA;XynU;CtCE4;LX4) (Xyn11A),3.2.1.8,"O52780
+O87119",GH11
+668, xylanase (DIU60_09020),3.2.1.8, ,GH11
+669, xylanase (XynA),3.2.1.8,E0YL13,GH11
+670," endo-β-1,4-xylanase (Xyn11)",3.2.1.8,A5H0S3,GH11
+671, xylanase (Xyn11),3.2.1.8,B5SYI8,GH11
+672, xylanase (XynA;BaLi_c05970),3.2.1.8, ,GH11
+673, xylanase A (XynA),3.2.1.8,"P00694
+Q5EFR9
+Q8RMN7",GH11
+674, β-xylanase (XynA),3.2.1.8,E2IHA1,GH11
+675, xylanase (XylP),3.2.1.8,C8CB65,GH11
+676," endo-β-1,4-xylanase (Xyl;Xyl687)",3.2.1.8,I3RYY0,GH11
+677, xylanase,3.2.1.8,Q06RH9,GH11
+678, xylanase (XynA),3.2.1.8,"P00694
+Q5EFR9",GH11
+679," endo-β-1,4-xylanase A (XynA;XynB)",3.2.1.8,Q9ZB36,GH11
+680, xylanase J (XynJ),3.2.1.8,Q9RC94,GH11
+681," endo-β-1,4-xylanase A (XynA;XG)",3.2.1.8,Q84F19,GH11
+682, xylanase (XynHB),3.2.1.8,Q58G72,GH11
+683, xylanase (ATBXYL-C;XylC1;XylC2;XylC3),3.2.1.8,"G4XQJ9
+G4XQK0
+G4XQK1
+Q7SIE3",GH11
+684, xylanase (Xyn11A-LC) (Xyn11A),3.2.1.8,V9NCQ7,GH11
+685, xylanase S (XynS),3.2.1.8,Q59256,GH11
+686, xylanase (XynY),3.2.1.8,Q59257,GH11
+687, xylanase,3.2.1.8,C5MTD6,GH11
+688, xylanase,3.2.1.8,Q3HLJ4,GH11
+689," β-1,4-xylanase (XylA)",3.2.1.8,C7F433,GH11
+690, endoxylanase,3.2.1.8,D7F2D8,GH11
+691, xylanase,3.2.1.8,Q7SID8,GH11
+692, xylanase (halotolerant) (partial),3.2.1.8,E0YTQ6,GH11
+693, xylanase (LC9),3.2.1.8, ,GH11
+694," endo-β-1,4-xylanase (XylB)",3.2.1.8,"P18429
+Q45VU1",GH11
+695, xylanase (Xyl),3.2.1.8,B9ZZN9,GH11
+696, xylanase A (XynA;BsxA;BsXynA;BSU18840),3.2.1.8,"A0A6M4JHE2
+P18429
+Q59254
+Q8RMN9",GH11
+697, xylanase (XylB8),3.2.1.8,H9ZGD1,GH11
+698, xylanase (Calkro_0081) (Xyn11A),3.2.1.8,E4SCE2,GH11
+699, xylanase (XynA;Ca_GH11),3.2.1.8,I7DIS4,GH11
+700, xylanase D (XynD),3.2.1.8,O52375,GH11
+701, xylanase D / 11A (XynD;XylD;Xyl11A) (Xyn11A),3.2.1.8,P54865,GH11
+702," endo-β-1,4-xylanase (XynI) (fragment)",3.2.1.8,"Q14ST6
+Q9AG99",GH11
+703, xylanase (XIB;XylXib;ClXyn11A) (Xyn11A),3.2.1.8,A2AWV8,GH11
+704, xylanase D / 11B (CJA_3762) (Xyn11B),3.2.1.8,"B3PIN0
+Q8VP72",GH11
+705, xylanase E / 11A (XynE;CJA_3763) (Xyn11A),3.2.1.8,"B3PIN1
+Q59674",GH11
+706, xylanase A (XylA),3.2.1.8,Q59300,GH11
+707," endo-β-1,4-xylanase",3.2.1.8,A0A088SQN4,GH11
+708, xylanase A (XynA;Clocel_2295),3.2.1.8,"D9SP57
+Q8GH59",GH11
+709, xylanase B (XynB),3.2.1.8,P17137,GH11
+710, xylanase 11A (Xyn11A),3.2.1.8,Q6U894,GH11
+711, xylanase (Xyn11A),3.2.1.8,Q71S35,GH11
+712, xylanase B (XynB;XynB3;229B),3.2.1.8,P77853,GH11
+713, Fisuc_2442 / FSU_3006,3.2.1.8,C9RLL3,GH11
+714, xylanase C (XynC;Fisuc_0362;FSU_0777) (Xyn11C),3.2.1.8,P35811,GH11
+715, xylanase C (XynC;Fisuc_0362;FSU_0777) (Xyn11C),3.2.1.8,P35811,GH11
+716, xylanase A (XynA),3.2.1.8,P45705,GH11
+717, xylanase (BH0899) (Xyn11A),3.2.1.8,Q9KEF3,GH11
+718," endo-1,4-β-xylanhydrolase (XynNt) (Xyn11A)",3.2.1.8,"Q79MJ7
+Q9KEF3",GH11
+719," endo-β-1,4-xylanase (HHT355_1576; XynE)",3.2.1.8, ,GH11
+720," endo-β-1,4-xylanase (HHT355_0285; XynF)",3.2.1.8, ,GH11
+721, xylanase (XynB;KSE_59480),3.2.1.8,E4N0N4,GH11
+722," endo-β-1,4-xylanase (Xyn11Nx)",3.2.1.8,D1KJJ7,GH11
+723, xylanase A (XlnA;BcX),3.2.1.8,"P09850
+P18429
+Q8RMN8",GH11
+724, xylanase (Xyn11E),3.2.1.8,V9TXH2,GH11
+725, xylanase X (XylX),3.2.1.8,Q2I6W5,GH11
+726, xylanase (XynG1-1;XynG1-1b43;XynG1-1b43cc16),3.2.1.8,"F8UMP6
+M4N7N5
+M4N7S8",GH11
+727, xylanase 11A (Xyn11A),3.2.1.8,D3GKE3,GH11
+728," endo-β-1,4-xylanase (Xyn)",3.2.1.8,E1AHZ6,GH11
+729, xylanase A (XynA),3.2.1.8,A4GG22,GH11
+730, endo-xylanase (Xyn1),3.2.1.8,A3QRI7,GH11
+731," endo-β-1,4-xylanase (partial) (Xyl11D)",3.2.1.8,G0YA74,GH11
+732, Pjdr2_4664 (Xyn),3.2.1.8,C6D8U8,GH11
+733, xylanase A (XynA),3.2.1.8,Q9F9B9,GH11
+734, xylanase 1 (Xyn1),3.2.1.8,Q1XGE6,GH11
+735," 1,4-betα-xylanase (GH11XynB;AMS66_16445)",3.2.1.8,A0A0M9BNX9,GH11
+736," endo-1,4-β-xylanase T (XynT) (Xyn11A)",3.2.1.8,P83513,GH11
+737," β-1,4-xylanase (AxnA)",3.2.1.8, ,GH11
+738," xylanase (P32a,Ccel_0750) (Xyn11A)",3.2.1.8,B8I7X1,GH11
+739, xylanase A (XynA),3.2.1.8,Q52644,GH11
+740, xylanase B (XynB),3.2.1.8,Q9AJB4,GH11
+741," endo-β-1,4-xylanase 11D (Xyn11D)",3.2.1.8,F6LP81,GH11
+742," endo-β-1,4-xylanase 11E (Xyn11E)",3.2.1.8,E9SA77,GH11
+743," endo-β-1,4-xylanase 11F (Xyn11F)",3.2.1.8,E9S8N5,GH11
+744, xylanase (GH11A-CE;RUM_23130) (Xyn11A),3.2.1.8,D4LFB0,GH11
+745, xylanase A (XynA),3.2.1.8,P29126,GH11
+746, xylanase D / lichenase (XynD),3.2.1.8,"Q53317
+Q9S310",GH11
+747, xylanase (BadX;Xyl11),3.2.1.8,"Q7SIE2
+Q7SIE3",GH11
+748, xylanase (XSC738;SCO0105;SCJ11.34c),3.2.1.8,Q9RI72,GH11
+749, xylanase (XlnB;SCO2292),3.2.1.8,Q9RKN6,GH11
+750, xylanase B (XlnB;XlnB1;XlnB2),3.2.1.8,P26515,GH11
+751, xylanase C (XlnC),3.2.1.8,P26220,GH11
+752, xylanase TB (XynB;XynTB) (partial),3.2.1.8,A4K8J7,GH11
+753, xylanase (Gxyn1;GXYN;SoxB),3.2.1.8,Q9EW89,GH11
+754, xylanase (XynA),3.2.1.8,K7UAM8,GH11
+755, xylanase,3.2.1.8,Q56013,GH11
+756, xylobiose-producing xylanase (XynBS27),3.2.1.8,D1FNQ6,GH11
+757, xylanase (Xyl1),3.2.1.8,Q59962,GH11
+758, xylanase (XynBS9),3.2.1.8,D7EZJ3,GH11
+759," endo-β-1,4-xylanase (XynSW1)",3.2.1.8,F7J663,GH11
+760, xylanase (XynSW3),3.2.1.8,F8WSY7,GH11
+761, xylanase II (StXII),3.2.1.8,Q76BV2,GH11
+762, endoxylanase (StxI;STX I) (fragment),3.2.1.8,B2KJ43,GH11
+763, xylanase (SvxA),3.2.1.8,Q9RMH9,GH11
+764," endo-β-1,4-xylanase (XynC;Tsac_0897)",3.2.1.8,I3VTR8,GH11
+765, xylanase (Xyl11;Xyl20;Tx-Xyn;TxXYN;Tx-Xyl;Tx-Xyn11;G11),3.2.1.8,Q14RS0,GH11
+766," endo-β-1,4-xylanase (Xyl11;TfGH11)",3.2.1.8,Q5RZ98,GH11
+767, xylanase VI / D (XynD),3.2.1.8,O24852,GH30
+768, xylanase 5B (Xyn5B),3.2.1.8,E1ACF9,GH30
+769, CGSCsYakCAS_04919 (Xyn30A),3.2.1.8,D2KFJ5,GH30
+770, xylanase (CAP0119) (Xyn30A),3.2.1.8,Q97TI2,GH30
+771, xylanase (Xyl2090;MROS_2090),3.2.1.8,I6Z823,GH30
+772, glucuronoxylan-specific xylanase (Xyn30A),3.2.1.8,U6BPI6,GH30
+773, xylanase 3 (Xyn3),3.2.1.8,P70733,GH30
+774," endo-β-1,4-xylanase (C7I;CpC7I;CpXyn30A;Cpap_2855) (Xyn30A)",3.2.1.8,F1TBY8,GH30
+775, xylanase (GH30A-CE;RUM_18530) (Xyn30A),3.2.1.8,D4LE58,GH30
+776, xylanase (Mi-Xyl1;Xyl-1),3.2.1.8,Q9NHE0,GH30
+777, TCE0_039f12750,3.2.1.8,A0A6N4SL16,GH30
+778, bifunctional endo-glucuronoxylanase and exo-xylobiohydrolase (TcXyn30B),3.2.1.8,"A0A4V8H018
+A0A510NXC4",GH30
+779," endo-β-1,4-xylanase active on arabinoxylan and glucuronoxylan (XynC;XYNC;GH30)",3.2.1.8,A0A0F7KIJ8,GH30
+780," endo-β-1,4-xylanase (BACINT_01041)",3.2.1.8, ,GH43
+781," endo-β-1,4-xylanase (BACINT_01035)",3.2.1.8, ,GH43
+782," endo-β-1,4-xylanase (CGSCsYakCAS_10615) (fragment) (Xyn43A)",3.2.1.8,D2KFJ2,GH43
+783," corn-bran specific endo-β-1,4-xylanase (BACOVA_03433; Bovatus_03729)",3.2.1.8,A7M006,GH98
+784, xylanase E (XynE; Cthe_2195) (Xyn141E),3.2.1.8,A3DHG8,GH141
+785, β-xylosidase (BcellWH2_03638; BACWH2_3409; Lacz_21),3.2.1.37,A0A0P0GUA9,GH2
+786, β-xylosidase (BglX;TC41_2927),3.2.1.37,F8IKQ1,GH3
+787, β-xylosidase (BACINT_01042),3.2.1.37, ,GH3
+788, β-xylosidase (BACINT_00926) (Xyl3A),3.2.1.37,B3C8W3,GH3
+789, β-xylosidase (ORF0541) (Xyl3A),3.2.1.37,I6R6X6,GH3
+790, β-xylosidase (Cb2487;Cb1172;CbXyl3A;Athe_2354) (Xyl3A),3.2.1.37,B9MN93,GH3
+791, β-xylosidase (CfXyl3A;Celf_2726) (Xyl3A),3.2.1.37,F4H6T9,GH3
+792, β-xylosidase (XylD),3.2.1.37,A0A0E3JDE2,GH3
+793, β-xylosidase (Dtur_0852),3.2.1.37,B8E050,GH3
+794, [oligo-ulvan] β-xylosidase (BN863_22130),3.2.1.37,T2KMH0,GH3
+795, β-xylosidase (BxyL),3.2.1.37,A0A140D6H5,GH3
+796, β-xylosidase (XylB),3.2.1.37,A0A140D6K8,GH3
+797, β-xylosidase (Orf00398;PBR_0403;00398-GPBOY) (Xyl3A),3.2.1.37,D5KJA3,GH3
+798, β-xylosidase (Orf0911;PBR_0906;00911-GPBOY) (Xyl3B),3.2.1.37,D5KJA4,GH3
+799, β-xylosidase (Orf0975;PBR_0972;00975-GPBOY) (Xyl3C),3.2.1.37,D5KJA5,GH3
+800, β-xylosidase (XylB;XylBK-110),3.2.1.37,B1P195,GH30
+801, β-xylosidase (RuXyn2),3.2.1.37,E3TBJ4,GH30
+802," exo-β-1,4-xylanase (XylD) (acidic)",3.2.1.37,D6MYS9,GH30
+803," β-1,4-xylosidase (CoXylA;Calow_0126)",3.2.1.37,E4Q2A6,GH39
+804, β-xylosidase B (XynB;Orf5),3.2.1.37,P23552,GH39
+805, β-xylosidase D (XynD),3.2.1.37,O30428,GH39
+806, β-xylosidase (XynD;Csac_2409),3.2.1.37,A4XM51,GH39
+807, β-xylosidase II (XynB2;CcXynB2;CC2357),3.2.1.37,Q9A5U0,GH39
+808, β-xylosidase (Xln-DT),3.2.1.37, ,GH39
+809,  β-xylosidase (DtXyl; DICTH_1792),3.2.1.37,B5YB78,GH39
+810, β-xylosidase,3.2.1.37,"A0A1V9CR85
+S7STZ0",GH39
+811, β-xylosidase (XynB;XynB1;HUS_CDS69),3.2.1.37,Q9ZFM2,GH39
+812, β-xylosidase (BHXyl39;Bxyl;BH1068),3.2.1.37,Q9KDZ3,GH39
+813," xylan 1,4-β-xylosidase (SlXyn39; Slin_3934)",3.2.1.37, ,GH39
+814, β-xylosidase (XynB),3.2.1.37,P36906,GH39
+815, β-xylosidase (XylB;Tsac_1452),3.2.1.37,"I3VVB4
+O30360",GH39
+816, β-xylosidase A (BxlA) (Bxl39A),3.2.1.37,Q8GJ43,GH39
+817, β-xylosidase (Bxl39A; BxlA; Cst_c08910),3.2.1.37, ,GH39
+818, Xyl21,3.2.1.37,A0A1L3GYC8,GH39
+819," xylan 1,4-β-xylosidase (XylP81;QPG93045.1) (fragment)",3.2.1.37, ,GH39
+820, β-xylosidase (XynB; XacXynB; XAC4058),3.2.1.37,Q8PFC5,GH39
+821, β-xylosidase (AmX;Amet_3317),3.2.1.37,A6TTC7,GH43
+822, β-xylosidase (BpX;XynB;E-BXSEBP),3.2.1.37,P07129,GH43
+823, β-xylosidase (XynB),3.2.1.37,"A0A4V8GZZ0
+Q9Z477",GH43
+824, β-xylosidase (XylB),3.2.1.37,O52729,GH43
+825," β-1,4-xylosidase (BsX;XynB;YnaK;BSU17580)",3.2.1.37,"A0A6M3ZBF4
+P94489",GH43
+826, β-xylosidase (BiXyl43A;BACINT_04203) (Xyl43A),3.2.1.37,B3CES2,GH43
+827, β-xylosidase C (XylC;XynB;BAD_0428),3.2.1.37,A1A0H6,GH43
+828, β-xylosidase (BAD_1527),3.2.1.37,A1A3M5,GH43
+829, β-xylosidase (BIF_00092),3.2.1.37,D3R467,GH43
+830, β-xylosidase 43A (CJA_3070) (Xyl43A=Gly43G),3.2.1.37,B3PDB2,GH43
+831, β-xylosidase (Xyl43),3.2.1.37,V5J3M5,GH43
+832, [oligo-ulvan] β-xylosidase (BN863_22160),3.2.1.37,T2KN85,GH43
+833, β-xylosidase (XynB3;HUS_CDS105),3.2.1.37,Q09LX0,GH43
+834, β-xylosidase (Xyl;GbtXyl43A) (Xyl43A),3.2.1.37,Q2I2N4,GH43
+835, β-xylosidase / exo-xylanase (GbtXyl43B) (Xyl43B),3.2.1.37,Q27R94,GH43
+836, β-xylosidase (XynB;XylBH43;BH3683),3.2.1.37,Q9K6P5,GH43
+837," xylan 1,4-β-xylosidase (XylA; HHT355_0966)",3.2.1.37, ,GH43
+838, β-xylosidase (XynB1),3.2.1.37,T1SF68,GH43
+839, β-xylosidase 2 (XynB2),3.2.1.37,U2QPM2,GH43
+840, β-xylosidase (LbX;XynB2;LVIS_2285),3.2.1.37,Q03N89,GH43
+841, β-xylosidase B (XysB),3.2.1.37,Q9Z487,GH52
+842," exo-β-1,4-xylosidase (Xyn;GsXyn)",3.2.1.37,M1GNL7,GH52
+843, β-xylosidase (XylA),3.2.1.37,P45702,GH52
+844, β-xylosidase 22 (ET31_03040),3.2.1.37, ,GH52
+845, β-xylosidase (XynB2;Xyn52B2;β-X;LbX;HUS_CDS60),3.2.1.37,"Q09LZ0
+Q9AL84
+Q9ZFM9",GH52
+846, β-xylosidase (BH2114),3.2.1.37,Q9KB21,GH52
+847, β-xylosidase (XylA),3.2.1.37,B6C867,GH52
+848, β-xylosidase (GT2_24_00240),3.2.1.37,A0A067XG64,GH52
+849, β-xylosidase (XylD;Tsac_1451),3.2.1.37,I3VVB3,GH52
+850, β-xylosidase B (XylB;BAD_0299),3.2.1.37,A1A047,GH120
+851, β-xylosidase (XylC;Tsac_0939),3.2.1.37,A2ICH1,GH120
+852, β-mannanase (CtMan5A;Cthe_0821) (Man5A),3.2.1.78,A3DDM7,GH5
+853, β-mannanase (Amn5) (Man5A),3.2.1.78,Q4W8M3,GH5
+854, β-mannanase (ManA;MAN330) (Man5A),3.2.1.78,Q5YEX6,GH5
+855," β-1,4-mannanase (BlMan5_8; Balac_1450)",3.2.1.78,C6A9J9,GH5
+856, endomannanase / endoglucanase (ManB) (Man5B),3.2.1.78,D9J0D7,GH5
+857, β-mannanase A (ManA;CelA) (Man5A),3.2.1.78,Q9ZA17,GH5
+858," β-1,4-mannanase (ManA)",3.2.1.78,Q9RFX5,GH5
+859, bifunctional mannanase / endoglucanase (CbMan5A/Cel44A;Athe_1859;Cbes_1859;ORF1946) (Man5A-Cel44A),3.2.1.78,B9MKT9,GH5
+860, bifunctional cellulase / β-mannanase (CelC-ManB;CbCel9B/Man5A;Athe_1865;Cbes_1865;Orf1952) (Cel9B-Man5A),3.2.1.78,B9MKU5,GH5
+861," bifunctional β-mannanase / endo-β-1,4-glucanase (ManA)",3.2.1.78,P22533,GH5
+862," β-1,4-mannanase (ManH)",3.2.1.78,G3FBL1,GH5
+863," endo-β-1,4-mannanase 5A (CjMan5A; CJA_3338) (Man5A)",3.2.1.78,"B3PF24
+Q840C2",GH5
+864, β-mannanase (Man;CtMan;CtManf;Cthe_0032),3.2.1.78,A3DBE4,GH26
+865, β-mannanase (ManA;ManB;Cthe_2811) (Man26B),3.2.1.78,A3DJ81,GH26
+866, β-mannanase 26B (Man26B),3.2.1.78,Q9F1T9,GH26
+867, β-mannanase A (ManA) (Man26A),3.2.1.78,Q9REC7,GH26
+868," endo-β-1,4-mannanase",3.2.1.78,A0A0A7H8N0,GH26
+869," endo-β-1,4-mannanase (ManB;YdhT;BLi00735;BL00606)",3.2.1.78,Q65MP4,GH26
+870," endo-β-1,4-mannanase (ManB)",3.2.1.78,M4WK58,GH26
+871, β-mannanase,3.2.1.78,O83011,GH26
+872," endo-β-1,4-mannanase (ManA)",3.2.1.78,Q76N66,GH26
+873," endo-β-1,4-mannanase (ManB-1601)",3.2.1.78,A0A0A1E3J1,GH26
+874, β-mannanase 26A (AmA) (alkaline) (Man26A),3.2.1.78,Q2ACI1,GH26
+875, β-mannanase (Bman26),3.2.1.78,A0A173DUJ6,GH26
+876," endo-β-1,4-mannanase (Mans2) (partial)",3.2.1.78,A0A0K2S4R5,GH26
+877," endo-β-1,4-mannanase",3.2.1.78,A0A0A7HAT5,GH26
+878, β-mannanase (ManB36),3.2.1.78,Q2L7F9,GH26
+879," endo-β-1,4-mannosidase (RMase24)",3.2.1.78,A0A2L2DH00,GH26
+880," endo-β-1,4-mannanase (ManaA)",3.2.1.78,Q2LGZ6,GH26
+881, β-mannanase (Man1),3.2.1.78,Q9AGZ3,GH26
+882, β-mannanase,3.2.1.78,B5LX62,GH26
+883, β-mannanase (MannS),3.2.1.78,J9ZYE8,GH26
+884, β-mannanase (ManA),3.2.1.78,F2VQ62,GH26
+885, β-mannanase,3.2.1.78,P55278,GH26
+886, β-mannanase 26A (BsMan26A; YdhT; BSU05880) (Man26A),3.2.1.78,"A0A6M3Z7Z2
+O05512",GH26
+887, β-mannanase (ManA),3.2.1.78,Q3S4E4,GH26
+888," β-1,4-mannanase (Man;BcMan)",3.2.1.78,Q5PSP8,GH26
+889, β-mannanase (BaMan26A;BAD_1030) (Man26A),3.2.1.78,A1A278,GH26
+890, β-mannanase (M-I;M-II;M-III),3.2.1.78,P16699,GH26
+891, β-mannanase (ManA;CsMan26),3.2.1.78,P77847,GH26
+892, β-mannanase (Man26A),3.2.1.78,Q9XCV5,GH26
+893," β-1,4-mannanase A (ManA; CjMan26A; CJA_2770; eMAN; E-BMACJ) (Man26A)",3.2.1.78,"B3PBK3
+P49424",GH26
+894," endo-β-1,4-mannanase 26B (CJA_2480) (Man26B)",3.2.1.78,"B3PKL2
+Q840B9",GH26
+895, β-mannanase (Clocel_4124) (Man26E),3.2.1.78,D9SMC9,GH26
+896, mannanase B (ManB;NC2;Clocel_2607),3.2.1.78,D9SQV8,GH26
+897, β-mannanase (Clocel_4119; Man26A) (Man26A),3.2.1.78,D9SMC4,GH26
+898, β-mannanase (ManA) (fragment),3.2.1.78,O30654,GH26
+899, Fisuc_0727 / FSU_1165,3.2.1.78,C9RMV9,GH26
+900, β-mannanase (KMAN; KMAN-3),3.2.1.78, ,GH26
+901, β-mannanase,3.2.1.78,G3FHR2,GH26
+902, xyloglucanase / β-mannanase (Cel44C-Man26A),3.2.1.78,Q1A2D0,GH26
+903," β-1,4-mannanase (Man26B)",3.2.1.78,C6KL35,GH26
+904," endo-β-1,4-mannanase (Man26P)",3.2.1.78,C0KZC5,GH26
+905, β-mannanase (ManA;Rmar_0016),3.2.1.78,P49425,GH26
+906," endo-β-1,4-mannanase (RiGH26; RIL182_00214; ROSINTL182_07683; ManA)",3.2.1.78,C7GCP5,GH26
+907, β-mannanase (GH26A;RUM_15270) (Man26A),3.2.1.78,D4LDC6,GH26
+908, β-mannanase (GH26B;RUM_21270) (Man26B),3.2.1.78,D4LEV1,GH26
+909," β-1,4-mannanase (ManA;ManAGN25)",3.2.1.78,A0A0N6X4Z9,GH26
+910," endo-β-1,4-mannanase (ManA;ManAJB13)",3.2.1.78,I3PQX2,GH26
+911, β-mannanase 26A (Man26A; Mana1; Cst_c11340),3.2.1.78, ,GH26
+912, bifunctional mannanase-xyloglucanase (MNXEG),3.2.1.78,D2KKK4,GH26
+913, endoglycosidase (GH6248) (Cel5A),3.2.1.78,Q283N5,GH26
+914, endomannanase (Man1; GC_Man1),3.2.1.78, ,GH26
+915," endo-β-1,4-mannanase (AnMan26A;AN7413.2) (Man26A)",3.2.1.78,"C8VCC9
+Q5AWB7",GH26
+916," endo-β-1,4-mannanase (An15g07760) (Man26A)",3.2.1.78,A2R6F5,GH26
+917, β-mannanase A (ManA),3.2.1.78,P55296,GH26
+918, β-mannanase B (ManB),3.2.1.78,P55297,GH26
+919, β-mannanase C (ManC),3.2.1.78,P55298,GH26
+920," endo-β-1,4-mannanase (PaMan26A;Pa_5_1950) (Man26A)",3.2.1.78,"B2AEP0
+E2GHW2",GH26
+921, β-mannanase (ManC;RsManC;RsMan26C) (Man26C),3.2.1.78,H7CGE2,GH26
+922," endo-β-1,4-mannanase 26A (WspMan26A)",3.2.1.78,A0A345F7H7,GH26
+923," endo-β-1,4-mannanase 26A (YpenMan26A)",3.2.1.78,A0A3G4RHU4,GH26
+924," endo-β-1,4-mannanase (Kcr_0419 )",3.2.1.78, ,GH113
+925," endo-β-1,4-mannanase (ManA; AaManA)",3.2.1.78,A5H1I6,GH113
+926, β-mannanase (Man113) (Man113A),3.2.1.78,W5R5D2,GH113
+927," β-1,4-mannanase (AxMan113A)",3.2.1.78,K0J0N5,GH113
+928," endo-β-1,4-mannanase (ManB; BaMan113A) (Man113A)",3.2.1.78,A0A140EH91,GH113
+929," endo-β-1,4-mannanase (Clocel_3428 )",3.2.1.78, ,GH113
+930," endo-β-1,4-mannanase (CCU_09070 )",3.2.1.78, ,GH113
+931, FPR_17310,3.2.1.78, ,GH113
+932," endo-β-1,4-mannanase (PM3016_2412 )",3.2.1.78, ,GH113
+933," endo-β-1,4-mannanase (PM3016_4087 )",3.2.1.78, ,GH113
+934," endo-β-1,4-mannanase (RBI_II00178 )",3.2.1.78, ,GH113
+935," endo-β-1,4-mannanase (HGMM_OP4C795 )",3.2.1.78, ,GH113
+936," endo-β-1,4-mannanase",3.2.1.78, ,GH113
+937," endo-β-1,4-mannanase (J154_03684 )",3.2.1.78, ,GH113
+938," β-1,4-mannanase (SsGH134)",3.2.1.78,"A0A1L1QK12
+A0A1L1QK13
+A0A1L1QK16",GH134
+939," endo-β-1,4-mannanase (AN2710;ANID_02710) (Man134A)",3.2.1.78,A0A1U8QM87,GH134
+940, AO090038000445,3.2.1.78, ,GH134
+941," endo-β-1,4-mannanase (LpsGH134b)",3.2.1.78, ,GH134
+942," endo-β-1,4-mannanase (LpsGH134a)",3.2.1.78, ,GH134
+943," endo-β-1,4-mannanase (RMCBS344292_04886)",3.2.1.78, ,GH134
+944, β-mannosidase (BglB;PF0356),3.2.1.25,Q8U3U9,GH1
+945, β-mannosidase (BglB;PH0501),3.2.1.25,O58237,GH1
+946, β-mannosidase (ManA; AfMan2; Atu1523),3.2.1.25, ,GH2
+947, BF1733 (BmnA),3.2.1.25,"G8K032
+Q84ID9",GH2
+948, β-mannosidase (BT0458;BT_0458) (Man2A),3.2.1.25,Q8AAK6,GH2
+949," galactomannan-binding β-1,4-mannosidase (CbMan2A;Athe_0227) (Man2A)",3.2.1.25,B9MME5,GH2
+950, β-mannosidase 2A (CfMan2A) (Man2A),3.2.1.25,"F4H7D3
+Q9XCV4",GH2
+951, β-mannosidase (DtMan;DICTH_1692),3.2.1.25,B5YAN4,GH2
+952, β-mannosidase (BlMan5B; BL1333) (BlMan5B),3.2.1.25,Q8G4P5,GH5
+953," β-1,4-mannosidase (BlGH5_18; HMPREF0175_1989)",3.2.1.25,C2GY91,GH5
+954, β-mannosidase (Caci_2257),3.2.1.25,C7QJF2,GH5
+955, β-mannosidase (Q783_10190 ),3.2.1.25, ,GH113
+956, β-mannosidase (Cspa_c52740 ),3.2.1.25, ,GH113
+957, β-mannosidase (FAEPRAM212_01134 ),3.2.1.25, ,GH113
+958, β-mannosidase (R70723_09070 ),3.2.1.25, ,GH113
+959, β-mannosidase (PSTEL_08720 ),3.2.1.25, ,GH113
+960, β-mannosidase (HMPREF1071_03408),3.2.1.25,I9SUA3,GH164
+961, α-L-arabinofuranosidase (Ct43Araf;CtAbf43A;CtGh43;Cthe_1271) (Abf43A),3.2.1.55,A3DEX4,GH43
+962, arabinoxylan α-arabinofuranosidase / AXH-m23 (XynD) (Arf43A=Axh43A),3.2.1.55,H1ACZ8,GH43
+963, arabinoxylan arabinofuranohydrolase (AXH) (Axh43A),3.2.1.55,A0A0F6VYJ7,GH43
+964," arabinoxylan α-L-1,3-arabinofuranohydrolase (XynD;BsAXH-m23;BSU18160)",3.2.1.55,"A0A6M4JGV3
+Q45071
+Q798P3",GH43
+965, α-L-arabinofuranosidase (BcellWH2_04906; BACWH2_4625),3.2.1.55,"A0A0N7IG62
+A0A139L9H8",GH43
+966, α-L-arabinofuranosidase (weak activity) (BcellWH2_03560; BACWH2_3333),3.2.1.55,A0A0P0GRY3,GH43
+967, α-L-arabinofuranosidase (BACEGG_01304),3.2.1.55, ,GH43
+968," bifunctional endo-β-1,4-xylanase / α-L-arabinofuranosidase (BiXyn10B/BiAra43A;BACINT_04202) (Xyn10B/Ara43A)",3.2.1.55,B3CES1,GH43
+969, α-L-arabinofuranosidase (BACINT_01043),3.2.1.55, ,GH43
+970, α-L-arabinofuranosidase (BACOVA_03421; Bovatus_03717),3.2.1.55,A7LZZ4,GH43
+971, α-L-arabinofuranosidase (BACOVA_03425; Bovatus_03721),3.2.1.55,A7LZZ8,GH43
+972," double substituted xylan α-1,3-L-arabinofuranosidase (Bovatus_03715; Xynb_6; BACOVA_03417)",3.2.1.55, ,GH43
+973, α-L-arabinofuranoside (Xynb_4;BoGH43A;BACOVA_02654;Bovatus_03073),3.2.1.55,A7LXT8,GH43
+974, α-L-arabinofuranoside (Xynb_5;BoGH43B;BACOVA_02656;Bovatus_03074),3.2.1.55,A7LXU0,GH43
+975," double substituted xylan α-1,3-L-specific arabinofuranosidase (BACOVA_03417)",3.2.1.55, ,GH43
+976, α-L-arabinofuranosidase (BT3675;BT_3675),3.2.1.55,Q8A1I6,GH43
+977, α-L-arabinofuranosidase (Bt3655;BT_3655) (single substitution specific),3.2.1.55,Q8A1K6,GH43
+978," α-L-arabinofuranosidase (cleaves L-Araf-α-1,3-D-GalpA; BT1021; BT_1021)",3.2.1.55,Q8A8Z6,GH43
+979, α-L-arabinofuranosidase (Bt2852;BT_2852) (single substitution specific),3.2.1.55,Q8A3V2,GH43
+980, (grape RGII active) α-L-arabinofuranosidase (BT3662;BT_3662),3.2.1.55,Q8A1J9,GH43
+981, α-L-arabinofuranosidase (Bt3094;BT_3094),3.2.1.55,Q8A361,GH43
+982," double substituted xylan α-1,3-L-specific arabinofuranosidase d3 (AXHd3;AXH-d3;BaAXH-d3;BAD_0301;E-AFAM2)",3.2.1.55,"A1A049
+Q5JB56",GH43
+983, α-L-arabinofuranosidase (AXH-m;AbfA;BAD_0423),3.2.1.55,A1A0H1,GH43
+984, α-L-arabinofuranosidase (BlArafC;BLLJ_1852),3.2.1.55, ,GH43
+985, α-L-arabinofuranosidase (BlArafB;BLLJ_1853),3.2.1.55, ,GH43
+986, α-L-arabinofuranosidase (Calow_2099),3.2.1.55,E4Q6K2,GH43
+987, bifunctional α-L-arabinofuranosidase (XynF; Csac_2411),3.2.1.55,A4XM53,GH43
+988, bifunctional α-L-arabinofuranosidase (XynF; Csac_2411),3.2.1.55,A4XM53,GH43
+989," bifunctional β-1,4-xylanase / α-L-arabinosidase (XynA)",3.2.1.55,Q9X3P5,GH43
+990, α-L-arabinofuranosidase (Cpin_4501),3.2.1.55,C7PJ75,GH43
+991, arabinoxylan α-L-arabinofuranosidase (Axh1;Fisuc_1769;FSU_2269),3.2.1.55,C9RS26,GH43
+992, α-L-arabinofuranosidase (HoAraf43;Hore_20580),3.2.1.55,B8CZV1,GH43
+993," α-L-arabinofuranosidase / xylan 1,4-β-xylosidase (HHT355_2105; ArfC)",3.2.1.55, ,GH43
+994, α-L-arabinofuranoside (weak activity) (A3224_13575),3.2.1.55,A0A143HPP2,GH43
+995, α-L-arabinofuranosidase (GA0070618_4635),3.2.1.55,A0A1C4Z108,GH43
+996, α-L-arabinofuranosidase (SAMN05216490_0716),3.2.1.55,A0A1H1Q8Z9,GH43
+997, α-L-arabinofuranoside (weak activity) (B160DRAFT_01699),3.2.1.55, ,GH43
+998, α-L-arabinofuranoside (weak activity) (OPIT5_12740),3.2.1.55,W0J2F7,GH43
+999, Clocl_2445,3.2.1.55, ,GH51
+1000, α-L-arabinofuranosidase 51A (Araf51;CtAraf51A;Cthe_2548) (Araf51A),3.2.1.55,A3DIH0,GH51
+1001, Clo1313_0133,3.2.1.55, ,GH51
+1002, α-L-arabinofuranosidase (Ac-Abf51A) (Abf51A),3.2.1.55,A0A0P0ISK8,GH51
+1003, α-L-arabinofuranosidase (Abf; AbfAC26Sari),3.2.1.55,B2D088,GH51
+1004, α-L-arabinofuranosidase (AraB),3.2.1.55,Q2MJP5,GH51
+1005, α-L-arabinofuranosidase I (ArfA),3.2.1.55,Q2HPJ2,GH51
+1006, α-L-arabinofuranosidase 1 (AbfA;BSU28720),3.2.1.55,"A0A6M4JKK3
+P94531",GH51
+1007, α-L-arabinofuranosidase 2 (AbfA2;Abf2;Xsa;Asd;BSU28510),3.2.1.55,"A0A6M3ZF61
+P94552",GH51
+1008, α-L-arabinofuranosidase 2 (AsdII),3.2.1.55,Q59219,GH51
+1009, α-L-arabinofuranosidase (BT0368),3.2.1.55,Q8AAU6,GH51
+1010, α-L-arabinofuranosidase (BT0348),3.2.1.55,Q8AAW4,GH51
+1011, α-L-arabinofuranosidase (XsA;AbfB;BAD_1205),3.2.1.55,A1A2Q3,GH51
+1012, α-L-arabinofuranosidase (AbfB;BAD_1524),3.2.1.55,A1A3M2,GH51
+1013, α-L-arabinofuranosidase (AbfB),3.2.1.55,"Q841V6
+Q8G554",GH51
+1014, α-L-arabinofuranosidase (AfuB;AfuB-H1),3.2.1.55,E7CY70,GH51
+1015, α-L-arabinofuranosidase (AbfA;AbfA1;BL0544),3.2.1.55,Q8G6U4,GH51
+1016, arabinofuranosidase I (ArfI;CxAbf1),3.2.1.55,O68278,GH51
+1017, arabinofuranosidase II (ArfII;CxAbf2),3.2.1.55,O68279,GH51
+1018, α-L-arabinofuranosidase (CbAra51A;Athe_1103) (Ara51A),3.2.1.55,B9MRA0,GH51
+1019, α-L-arabinofuranosidase (CsAraf;Csac_1561),3.2.1.55,A4XJR8,GH51
+1020, α-L-arabinofuranosidase (AbF51),3.2.1.55, ,GH51
+1021, α-L-arabinofuranosidase (AbfCelf;Celf_3321),3.2.1.55,F4H166,GH51
+1022, α-L-arabinofuranosidase 51A (CJA_2769) (Abf51A),3.2.1.55,"B3PBK2
+Q93LE0",GH51
+1023, α-L-arabinofuranosidase (ArfA),3.2.1.55,Q8GEE5,GH51
+1024, α-L-arabinofuranosidase (FjArf51; Fjoh_3113),3.2.1.55, ,GH51
+1025, α-L-arabinofuranosidase (LarbF;G11MC16DRAFT_1557),3.2.1.55, ,GH51
+1026, α-L-arabinofuranosidase (AbF;GAFase),3.2.1.55,A8QJ85,GH51
+1027, α-L-arabinofuranosidase (Abf2; Abf2Geo12),3.2.1.55,A0A0U2GPG6,GH51
+1028, α-L-arabinofuranosidase (Abf1; Abf1Geo12),3.2.1.55,A0A0U2GPK2,GH51
+1029, α-L-arabinofuranosidase (AbfA;HUS_CDS35),3.2.1.55,"B3EYN4
+Q9XBQ3",GH51
+1030, α-L-arabinofuranosidase (AbfB;HUS_CDS33),3.2.1.55,"B3EYN3
+Q9XBQ4",GH51
+1031, α-L-arabinofuranosidase (AbfA),3.2.1.55,Q27R95,GH51
+1032, α-L-arabinofuranosidase (HHT355_1549; ArfA),3.2.1.55, ,GH51
+1033, α-L-arabinofuranosidase (HHT355_0845; ArfB),3.2.1.55, ,GH51
+1034, α-L-arabinofuranosidase (Abf22-3),3.2.1.55,H9BR50,GH51
+1035, α-L-arabinofuranosidase 1 (Abf1),3.2.1.55,D9J2Q3,GH51
+1036, α-L-arabinofuranosidase 2 (Abf2),3.2.1.55,D9J2Q4,GH51
+1037, α-L-arabinofuranosidase (Abf;Xsa;OENOO_34003),3.2.1.55,"A0NHN5
+D9J2Q1",GH51
+1038, α-L-arabinofuranosidase,3.2.1.55, ,GH51
+1039, α-L-arabinofuranosidase (AbfA;THSAbf),3.2.1.55,B1A0T7,GH51
+1040, α-L-arabinofuranosidase (Pjdr2_3019),3.2.1.55, ,GH51
+1041, α-L-arabinofuroranosidase (Pjdr2_3599),3.2.1.55, ,GH51
+1042, α-L-arabinofuranosidase (AbfA; AbfATK4),3.2.1.55,Q0GA82,GH51
+1043, α-arabinofuranosidase (AbfA;Araf3054),3.2.1.55,E1AXG3,GH51
+1044, α-L-arabinofuranosidase 51A (Ara51A),3.2.1.55,E9SHS5,GH51
+1045, α-L-arabinofuranosidase I (AFase I),3.2.1.55,P82593,GH51
+1046, α-L-arabinofuranosidase (AbfA),3.2.1.55,P53627,GH51
+1047, α-L-arabinofuranosidase (AFa),3.2.1.55,B6ZGN5,GH51
+1048, α-L-arabinofuranosidase (ORF2125),3.2.1.55,A0A0K2SQX3,GH51
+1049, α-L-arabinofuranosidase (Abf51S9),3.2.1.55,D1KTD5,GH51
+1050, α-L-arabinofuranosidase (AbjA;AbfD3;G51;TxAbf),3.2.1.55,O69262,GH51
+1051, α-L-arabinofuranosidase (ArfB) (Arf51B),3.2.1.55,O08457,GH51
+1052, α-L-arabinofuranosidase (AraA;TmAFase;TmAbf;Tm-AFase;TM0281),3.2.1.55,"Q4R1J9
+Q9WYB7
+R4NNA3",GH51
+1053, α-L-arabinofuranosidase (AraF;Tpet_0631),3.2.1.55,A5IKC8,GH51
+1054, α-L-arabinofuranosidase D3,3.2.1.55, ,GH51
+1055, α-L-arabinofuranosidase E3,3.2.1.55, ,GH51
+1056, XAC1286,3.2.1.55,Q8PMY9,GH51
+1057, α-L-arabinofuranosidase (XoAF;PXO_02260),3.2.1.55,"A0A0K0GNJ2
+B2SJW2",GH51
+1058, α-L-arabinofuranosidase A (ArfA),3.2.1.55,Q96X54,GH51
+1059, α-L-arabinofuranosidase A (AkabfA) (Abf51),3.2.1.55,Q8NK90,GH51
+1060, α-L-arabinofuranosidase (AN1277.2),3.2.1.55,"C8VSG2
+Q5BDV3",GH51
+1061, α-L-arabinofuranosidase (AbfA;AnAbfA),3.2.1.55,D6QST5,GH51
+1062, α-L-arabinofuranosidase A (AbfA;ExoA;AnAbfA),3.2.1.55,"D6QST5
+P42254",GH51
+1063, An01g00330 (AbfA),3.2.1.55,A2Q7E0,GH51
+1064, α-L-arabinofuranosidase E,3.2.1.55, ,GH51
+1065, α-L-arabinofuranosidase (AbfA),3.2.1.55,G8I078,GH51
+1066, α-L-arabinofuranosidase (AbfB),3.2.1.55,S6BFQ7,GH51
+1067," α-L-arabinofuranosidase (Abf3;AXHm2,3)",3.2.1.55,F2X2F7,GH51
+1068, α-L-arabinofuranosidase (TlAbf51),3.2.1.55, ,GH51
+1069, arabinoxylan arabinofuranohydrolase (AXAH-II;Axah2),3.2.1.55,"H9NHF6
+Q9ATV7",GH51
+1070, arabinoxylan arabinofuranohydrolase I (AXAH-I;Axah1),3.2.1.55,"H9NHF5
+Q9ATV8",GH51
+1071, α-L-arabinofuranosidase (Abf III;AXH-m),3.2.1.55, ,GH51
+1072, α-L-arabinofuranosidase (OsARAF1;Os07g0686900),3.2.1.55,"C7J5E2
+Q8LIG5",GH51
+1073, α-L-arabinofuranosidase (OsARAF3;Os11g0131900),3.2.1.55,"A0A0P0XYH3
+A3C891
+Q0IUW0
+Q2RAZ7",GH51
+1074, α-L-arabinofuranosidase (Afq1;AFQ1),3.2.1.55,B5MGR0,GH51
+1075, α-L-arabinofuranosidase (PcAbf51C) (Abf51C),3.2.1.55,A0A0C6EXX6,GH51
+1076, α-L-arabinofuranosidase (Abf;PoAbf;PLEOSDRAFT_1042120),3.2.1.55,A0A067NLQ2,GH51
+1077, α-L-arabinofuranosidase (Abf;PoAbf),3.2.1.55,G0TES6,GH51
+1078, α-L-arabinofuranosidase (Pa_5_11670) (Abf51A),3.2.1.55,"B2AFI2
+E2GHW4",GH51
+1079, α-L-arabinofuranosidase 2 (Abf2),3.2.1.55,A4UU45,GH51
+1080, α-L-arabinofuranosidase (TtABF51A; THITE_2125664) (TtABF51A),3.2.1.55,G2QWT8,GH51
+1081, α-L-arabinofuranosidase 51A (G12-2;GH51(G12);BN138_164) (Abf51A),3.2.1.55,S0DFA3,GH51
+1082, α-L-arabinofuranosidase 51B-43C (G12-20;GH51-GH43(G12);BN138_182) (Abf51B-Abf43C),3.2.1.55,S0DDZ8,GH51
+1083, arabinofuranosidase #5,3.2.1.55, ,GH51
+1084, arabinofuranosidase #4,3.2.1.55, ,GH51
+1085, arabinofuranosidase #6,3.2.1.55, ,GH51
+1086, arabinofuranosidase F1,3.2.1.55, ,GH51
+1087, α-L-arabinofuranosidase B (ArfB),3.2.1.55,Q9C4B1,GH54
+1088, α-L-arabinofuranosidase B (AbfB;AkAbfB) (Abf54),3.2.1.55,Q8NK89,GH54
+1089, α-L-arabinofuranosidase (AbfB),3.2.1.55,O74288,GH54
+1090, α-L-arabinofuranosidase (AbfB;AN1571.2),3.2.1.55,"C8VN12
+O74288",GH54
+1091, α-L-arabinofuranosidase B (AbfB;ExoB),3.2.1.55,P42255,GH54
+1092, α-L-arabinofuranosidase B (AbfB;An15g02300),3.2.1.55,A2R511,GH54
+1093, α-L-arabinofuranosidase 2 (Abf2),3.2.1.55,Q12551,GH54
+1094, α-arabinofuranosidase (AbfA),3.2.1.55,Q6RKQ1,GH54
+1095, α-L-arabinofuranosidase B (AbfB),3.2.1.55,Q86ZN9,GH54
+1096, α-L-arabinofuranosidase (Araf1;NcAraf1;NCU09775.1),3.2.1.55,Q7S187,GH54
+1097, α-L-arabinofuranosidase (Afs1;AFS1),3.2.1.55,B5MGR1,GH54
+1098, α-L-arabinofuranosidase (AbfB;Arf),3.2.1.55,E7DVW2,GH54
+1099, α-L-arabinofuranosidase (AbfB1;AbfB-1;PfAbfB1),3.2.1.55, ,GH54
+1100, α-L-arabinofuranosidase (AbfB2;AbfB-2;PfAbfB2),3.2.1.55, ,GH54
+1101, α-L-arabinofuranosidase 4 (ABF4),3.2.1.55,S5NFW1,GH54
+1102, α-L-arabinofuranosidase 1 (Abf;Abf1),3.2.1.55,Q96X02,GH54
+1103, arabinosidase B (Abf3;AbfB) (6139),3.2.1.55, ,GH54
+1104, α-L-arabinofuranosidase I (Abf1),3.2.1.55,Q92455,GH54
+1105, α-L-arabinofuranosidase C (XynC;XylC;CJA_3281) (Abf62A),3.2.1.55,"B3PEH9
+P23031",GH62
+1106, α-L-arabinofuranosidase B (AbfB;ScAraf62A;SCO5932) (Araf62A),3.2.1.55,O54161,GH62
+1107, α-L-arabinofuranosidase B (AbfB),3.2.1.55,P96463,GH62
+1108, α-L-arabinofuranosidase (StxIV;STX-IV;SthAraf62A) (Araf62A),3.2.1.55,Q76BV4,GH62
+1109, α-L-arabinofuranosidase (AN7908.2),3.2.1.55,Q5AUX2,GH62
+1110, α-L-arabinofuranosidase C (AbfC) (fragment) (fragment),3.2.1.55, ,GH62
+1111, α-L-arabinofuranosidase (AxhA;AnAxh62A) (Axh62A),3.2.1.55,A0A060IP77,GH62
+1112, α-L-arabinofuranosidase (AxhA),3.2.1.55,P79019,GH62
+1113, α-L-arabinofuranosidase (AxhA;An03g00960),3.2.1.55,A2QFV9,GH62
+1114, α-L-arabinofuranosidase (Arf),3.2.1.55,Q9UVX6,GH62
+1115, α-L-arabinofuranosidase (AxhA),3.2.1.55,P79021,GH62
+1116, α-L-arabinofuranosidase (Abf2),3.2.1.55, ,GH62
+1117, α-L-arabinofuranosidase(Ccin_CC1G_01577; Abf62A) (CcAbf62A),3.2.1.55,"A8NI40
+F1SX58",GH62
+1118, α-arabinofuranosidase 62A (Axh62A) (Abf62A),3.2.1.55,A0A059U4D1,GH62
+1119, α-L-arabinofuranosidase 64C (Axh62C) (Abf62C),3.2.1.55,A0A059U759,GH62
+1120, arabinoxylan α-L-arabinofuranohydrolase (Axs5;AXS5),3.2.1.55,B5MGR2,GH62
+1121, α-L-arabinofuranosidase (Abf62C) (EpABF62C),3.2.1.55,A0A7H0XJI9,GH62
+1122, α-L-arabinofuranosidase (PaAbf62A;Pa_0_1370) (Abf62A),3.2.1.55,"B2AFW5
+E2GHW5",GH62
+1123, α-L-arabinofuranosidase,3.2.1.55,A0A2H5BN17,GH62
+1124, α-L-arabinofuranosidase 2 (Abf2),3.2.1.55,Q7Z9N0,GH62
+1125, α-L-arabinofuranosidase (UmAbf62A;UM04309) (Abf62A),3.2.1.55, ,GH62
+1126, TPA_exp: CE1-GH62-GH10,3.2.1.55, ,GH62
+1127," endo-α-1,5-L-arabinanase (BlAbn1; BLi03029; BL00353)",3.2.1.99,Q65GB9,GH43
+1128," endo-α-1,5-L-arabinanase (AbnA;BLABNase;BLi01295;BL02653)",3.2.1.99,Q65L63,GH43
+1129," endo-α-1,5-L-arabinanase",3.2.1.99,O07078,GH43
+1130," endo-α-1,5-L-arabinanase (Abn2;YxiA;J3A;BSU39330) (Arb43B)",3.2.1.99,"A0A6M4JQW9
+B3FRL6
+P42293",GH43
+1131," endo-α-1,5-L-arabinanase (AbnA;BSU28810) (Arb43A)",3.2.1.99,"A0A6M3ZJV7
+P94522",GH43
+1132," endo-α-1,5-L-arabinanase (BT0360;BT_0360) (branched arabinan specific)",3.2.1.99,Q8AAV4,GH43
+1133," endo-α-1,5-L-arabinanase (BT0367;BT_0367) (linear arabinan-specific)",3.2.1.99,Q8AAU7,GH43
+1134," bimodular α-1,5- and α-1,2-arabinofuranosidase (BLLJ_1851; BlArafD)",3.2.1.99, ,GH43
+1135," endo-α-1,5-L-arabinanase (Csac_1560)",3.2.1.99,A4XJR7,GH43
+1136, Fisuc_1994 / FSU_2517,3.2.1.99,C9RIW1,GH43
+1137," α-1,5-L-arabinanase (AbnB;HUS_CDS25) (intracellular)",3.2.1.99,B3EYM8,GH43
+1138," endo-α-1,5-L-arabinanase (AbnA) (extracellular)",3.2.1.99,B3EYN2,GH43
+1139," endo-α-1,5-L-arabinanase (Abn-ts)",3.2.1.99,Q93HT9,GH43
+1140," xylan α-1,2-glucuronidase / α-glucuronidase (PUL-XylS;BoGH67;BACOVA_04385;Bovatus_01723)",3.2.1.131,A7M2P8,GH67
+1141, α-glucuronidase (ORF0540) (Agu67A),3.2.1.131,I6QTZ4,GH67
+1142," xylan α-1,2-glucuronidase / α-glucuronidase (CjGlcA67A;CJA_2887) (Gla67A=GlcA67A)",3.2.1.131,"B3PC73
+Q8VP74",GH67
+1143, α-glucuronidase 22 (?ET31_03015),3.2.1.131, ,GH67
+1144," xylan α-1,2-glucuronidase / α-glucuronidase (AguA;HUS_CDS68)",3.2.1.131,"Q09LY5
+Q9ZFM3",GH67
+1145," xylan α-1,2-glucuronidase 67A (Agu67A)",3.2.1.131,E9SDL4,GH67
+1146, α-glucuronidase (Deg75;DEG75),3.2.1.131,I2E7L0,GH67
+1147," xylan α-1,2-glucuronidase (AN9286.2)",3.2.1.131,Q5AQZ4,GH67
+1148, α-glucuronidase 1 (Agu1;MtAGU1),3.2.1.131,G4XKN3,GH67
+1149," xylan α-1,2-glucuronidase (AGlu;AguA)",3.2.1.131,Q8X211,GH67
+1150," xylan α-1,2-(4-O-methyl)-glucuronidase / α-glucuronidase (AxyAgu115A; AXY_23000)",3.2.1.131,K0J4X5,GH115
+1151, α-glucuronidase (BoAgu115A;BACOVA_03449;Bovatus_03743) (Agu115A),3.2.1.131,A7M022,GH115
+1152," xylan α-1,2-glucuronidase (RiAgu115A;ROSINTL182_08195) (Agu115A)",3.2.1.131,C7GE43,GH115
+1153, xylan α-glucuronidase (SdeAgu115A;Sde_1755) (Agu115A=Glu115A),3.2.1.131,Q21JW4,GH115
+1154," xylan α-1,2-(4-O-methyl)-glucuronidase / α-glucuronidase (SSDG_01527T0, SpGlcA115A)",3.2.1.131,"A0A0M4DBW4
+B5H8Y8",GH115
+1155, a-(4-O-methyl)-glucuronidase (PsAgu115;PICST_61283),3.2.1.131,A3LY17,GH115
+1156, glucuronoxylan a-(4-O-methyl-)glucuronidase (AguB;Agu1;ScAgu115),3.2.1.131,F5BAP8,GH115

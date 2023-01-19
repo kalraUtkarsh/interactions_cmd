@@ -1,0 +1,476 @@
+,Protein name,EC#,Uniprot,name
+0, cellulase (EBI-244),3.2.1.4,F6M085,GH5
+1, cellulase / cellobiohydrolase (Hu-CBH1;Huta_2387),3.2.1.4,C7NVN0,GH5
+2," endo-β-1,4-glucanase (EglB;TCel4;PAB0632)",3.2.1.4,Q9V052,GH5
+3," endo-β-1,4-glucanase (EGPh;EglB;TCel3;PH1171)",3.2.1.4,O58925,GH5
+4, thermoactive glycoside hydrolase family 5 endoglucanase (Cel5A),3.2.1.4,A0A3Q9CZQ1,GH5
+5, Cthe_0405 (CelL),3.2.1.4,A3DCG4,GH5
+6," endo-β-1,4-glucanase B (CelB;EgB;Cthe_0536) (Cel5A)",3.2.1.4,P04956,GH5
+7," endo-β-1,4-glucanase G (CelG;Cthe_2872) (Cel5D)",3.2.1.4,Q05332,GH5
+8," endo-β-1,4-glucanase C (CelC)",3.2.1.4,Q9AL36,GH5
+9," endo-β-1,4-glucanase B (CelB;EgB) (Cel5A)",3.2.1.4,P04956,GH5
+10," endo-β-1,4-glucanase G (CelG) (Cel5D)",3.2.1.4,Q05332,GH5
+11," endo-β-1,4-glucanase / β-1,3:1,4-glucanase H (CelH) (Lic26A;Cel5E)",3.2.1.4,"H6SHY4
+P16218",GH5
+12," endo-β-1,4-glucanase C (LC2;CelC;EgC) (Cel5B)",3.2.1.4,"P07985
+P0C2S3",GH5
+13," endo-β-1,4-glucanase E1 (EGAc;EGI;TcE1;Acel_0614) (Cel5A)",3.2.1.4,P54583,GH5
+14," endo-β-1,4-glucanase",3.2.1.4,O66064,GH5
+15," endo-β-1,4-glucanase (Egl-1139) / III-3A (Cel5A)",3.2.1.4,P06564,GH5
+16, endoglucanase (EG-I-1),3.2.1.4,I1V1X7,GH5
+17, endoglucanase (Egl;EglA;azo2236),3.2.1.4,A0S6A6,GH5
+18," endo-β-1,4-glucanase (Egl;AZC_1301)",3.2.1.4,A8I0V5,GH5
+19, endoglucanase (EglII),3.2.1.4,D3Y2F0,GH5
+20, endoglucanase A (EngA),3.2.1.4,Q8RPQ6,GH5
+21," endo-β-1,4-glucanase (Egl01)",3.2.1.4,A0A0A7EZH7,GH5
+22, endoglucanase (BlCel5B; BLi01882; BL01230) (Cel5B),3.2.1.4,Q65JI7,GH5
+23," endo-β-1,4-glucanase C (BglC;BLi02088;BL01471) (Cel5A)",3.2.1.4,"A5A671
+Q65IY7",GH5
+24," endo-β-1,4-glucanase (Cel5A) (Cel5A)",3.2.1.4,Q7X3S6,GH5
+25," endo-β-1,4-glucanase",3.2.1.4,Q45554,GH5
+26," endo-β-1,4-glucanase",3.2.1.4,O83012,GH5
+27," endo-β-1,4-glucanase B1",3.2.1.4,Q59232,GH5
+28, CelS,3.2.1.4,O52731,GH5
+29, cellulase (CelB),3.2.1.4,D4P8C6,GH5
+30," endo-β-1,4-glucanase K (Egl-K)",3.2.1.4,P19424,GH5
+31," endo-β-1,4-glucanase (Egl-64)",3.2.1.4,Q59241,GH5
+32, endoglucanase N252 (Egl252),3.2.1.4,Q93R81,GH5
+33," endo-β-1,4-glucanase (Egl-237)",3.2.1.4,Q9F216,GH5
+34," endo-β-1,4-glucanase",3.2.1.4,Q45532,GH5
+35," β-1,3-1,4-glucanase / cellulase C (CelA;CelC)",3.2.1.4,Q6Y4Q1,GH5
+36, endoglucanase (Egl173;Cel;EglS),3.2.1.4,Q93TJ6,GH5
+37," endo-β-1,4-glucanase (Eg15) (Cel5A)",3.2.1.4,"B6DVJ2
+B6VEU9
+B6VEV0
+B6VEV1
+B6VEV2
+B6VEV3
+B6VEV4
+B6VEV5",GH5
+38," endo-β-1,4-glucanase (CMCase;BglC)",3.2.1.4,P23549,GH5
+39," endo-β-1,4-glucanase (CelG)",3.2.1.4,Q93LD0,GH5
+40," endo-β-1,4-glucanase (EglS)",3.2.1.4,"G1DE47
+P10475",GH5
+41," endo-β-1,4-glucanase (BglC;Gld)",3.2.1.4,P07983,GH5
+42, cellulase (CelDR),3.2.1.4,"A8D0T0
+B6V3I2",GH5
+43," endo-β-1,4-glucanase (CelI15)",3.2.1.4,B7UAM4,GH5
+44," endo-β-1,4-glucanase",3.2.1.4,U3RAX4,GH5
+45," endo-β-1,4-glucanase (Egl499;Egl330)",3.2.1.4,Q45T78,GH5
+46, cellulase (Cel15;Cell15),3.2.1.4,C5I946,GH5
+47, cellulase (EG),3.2.1.4,H3K351,GH5
+48," endo-β-1,4-glucanase (EglS;BglC;Gld;BSU18130;BsCel5;BsCel5A) (Cel5A)",3.2.1.4,"A0A6M3ZBL5
+G1DE47
+P10475",GH5
+49," endo-β-1,4-glucanase",3.2.1.4,M1R5G7,GH5
+50, cellulase (CelA10),3.2.1.4,C5HG53,GH5
+51, cellulase (CelA24),3.2.1.4,C5HG56,GH5
+52, endo-cellulase (AC2aCel5A) (Cel5A),3.2.1.4,A0A076MPD7,GH5
+53," endo-1,4-glucanase A",3.2.1.4,P22541,GH5
+54," endo-β-1,4-glucanase 1 (End1;EglI;EGI)",3.2.1.4,P20847,GH5
+55," endo-β-1,4-glucanase (TTE0359) (Cel5A)",3.2.1.4,Q8RCQ7,GH5
+56," endo-β-1,4-glucanase D (CelD; Athe_0594)",3.2.1.4,"B9MPF9
+Q59154",GH5
+57," endo-β-1,4-glucanase / exo-β-1,4-glucanase (CelB;EgB)",3.2.1.4,P10474,GH5
+58, endoglucanase (Csac_0678),3.2.1.4,A4XHB2,GH5
+59, cellulase (CBH-B;CelB;Csac_1078),3.2.1.4,A4XIF7,GH5
+60," endo-β-1,4-glucanase (CelB)",3.2.1.4,I7CBM8,GH5
+61, multidomain endoglucanase (CelB),3.2.1.4,Q9X3P6,GH5
+62, Caul_1283 (Cel5A),3.2.1.4,B0SYT2,GH5
+63," endo-β-1,4-glucanase D (CenD;Celf_1924) (Cel5A)",3.2.1.4,"F4GZL0
+P50400",GH5
+64," endo-β-1,4-glucanase B (CelB;CflB;CelCflB;SP18)",3.2.1.4,Q9S3V3,GH5
+65, endoglucanase (CelA),3.2.1.4,K9J9W6,GH5
+66," endo-β-1,4-glucanase E / 5B (CelE;CJA_2983) (Cel5B)",3.2.1.4,"B3PCS3
+Q59665",GH5
+67," endo-β-1,4-glucanase A (CenA;Celf_3184) (Cel6A)",3.2.1.4,"F4GZY2
+P07984",GH6
+68," endo-β-1,4-glucanase (CelL)",3.2.1.4,A0A0P0IZM9,GH6
+69," endo-β-1,4-glucanase (CenA;MCenA)",3.2.1.4,Q53488,GH6
+70, endoglucanase (CelA1;CelA;Rv0062;MTV030.05) (Cel6),3.2.1.4,Q79G13,GH6
+71," endo-β-1,4-glucanase I (EGI;EGII)",3.2.1.4,E1CAJ8,GH6
+72," endo-β-1,4-glucanase 6A (Sde_2272) (Cel6A)",3.2.1.4,Q21IE7,GH6
+73," endo-β-1,4-glucanase A (CelA1;Cel1;CMCASE I)",3.2.1.4,P33682,GH6
+74," endo-β-1,4-glucanase (E2;CelB;Tfu_1074) (Cel6A)",3.2.1.4,"P26222
+Q47R05",GH6
+75, endoglucanase (ThCel6A) (alkali-stable) (Cel6A),3.2.1.4,X2G0M7,GH6
+76," endo-β-1,4-glucanase A (CelA)",3.2.1.4,P26414,GH6
+77, endoglucanase mgCel6A (mgCel6A),3.2.1.4, ,GH6
+78, cellulase (Cel6H) (partial) (Cel6H),3.2.1.4,G1K3U8,GH6
+79, cellulase (Lc-CelB),3.2.1.4,W8PF16,GH6
+80, cellulase (Lc-CelJ),3.2.1.4,W8P3Q3,GH6
+81, exoglucanase (CbsA) (fragment),3.2.1.4,"A0A384E106
+Q6IT74",GH6
+82," endo-β-1,4-glucanase (Cel6A)",3.2.1.4,Q9RQE6,GH6
+83," endo-β-1,4-glucanase B (EG VI) (Cel6B)",3.2.1.4,Q7SIG5,GH6
+84, β-glucanase (CbhYW23-2),3.2.1.4,B0FEV9,GH6
+85," endo-β-1,4-glucanase (PaCel6B;Pa_2_13800) (Cel6B)",3.2.1.4,B2AC20,GH6
+86," endo-β-1,4-glucanase (Af-EGL7; AFUA_6G01800; Afu6g01800)",3.2.1.4, ,GH7
+87," endo-β-1,4-glucanase (EglB;AN3418.2)",3.2.1.4,"C8VHK3
+Q5B7R2",GH7
+88," endo-β-1,4-glucanase (CelB)",3.2.1.4,"F5BB84
+O13455
+Q2TX26",GH7
+89," endo-β-1,4-glucanase (COCSADRAFT_201124)",3.2.1.4, ,GH7
+90," endo-β-1,4-glucanase (CLhgEG1)",3.2.1.4,Q8MXY2,GH7
+91," endo-β-1,4-glucanase (CLhgEG2)",3.2.1.4,Q8MXY1,GH7
+92," endo-β-1,4-glucanase I (EG I;Eg1;Fof7) (Cel7B)",3.2.1.4,"P46237
+Q9HGT3",GH7
+93, endoglucanase 3 (HmEG3) (fragment),3.2.1.4,Q95P29,GH7
+94, endoglucanase 2 (HmEG2),3.2.1.4,Q95P30,GH7
+95, endoglucanase 1 (HmEG1),3.2.1.4,Q95P31,GH7
+96," endo-β-1,4-glucanase I (Egl1;EG-I)",3.2.1.4,Q12622,GH7
+97, endoglucanase I (EG I;EG1) (Cel7B),3.2.1.4,P56680,GH7
+98, endoglucanase I / 7B (Eg1;Egl1) (Cel7B),3.2.1.4,B0FMT4,GH7
+99, cellulase (CelG5),3.2.1.4,H6TBN1,GH7
+100, endoglucanase 3 (PgEG3),3.2.1.4,Q95YH3,GH7
+101, endoglucanase 2 (PgEG2),3.2.1.4,Q95YH4,GH7
+102, endoglucanase 1 (PgEG1h),3.2.1.4,"Q95NK6
+Q95P32",GH7
+103," endo-β-1,3/1,4-glucanase / endotransglucosylase (Egl1;ETG;MoCel7B;MGG_02532;MG02532.4) (Cel7B)",3.2.1.4,"G4NK46
+H2DQS1",GH7
+104, cellulase (GHF7-5),3.2.1.4,X2CHW9,GH7
+105," endo-β-1,4-glucanase 7B (TCE0_024r07350) (Cel7B)",3.2.1.4,A0A6V8H7V0,GH7
+106," endo-β-1,4-glucanase (Eg7a;MtEG7a;MYCTH_111372)",3.2.1.4,G2QCS4,GH7
+107," endo-β-1,4-glucanase I (ThCel7B) (Cel7B)",3.2.1.4, ,GH7
+108," endo-β-1,4-glucanase I (Egl1;EglI;TlCel7A;eCEL;E-CELTR) (Cel7A)",3.2.1.4,Q12714,GH7
+109, endoglucanase I (HpCel7B) (Cel7B),3.2.1.4,A2TDD6,GH7
+110," endo-β-1,4-glucanase I (EGI;Egl1;EG-I;TrCel7B) (Cel7B)",3.2.1.4,P07981,GH7
+111," endo-β-1,4-glucanase I (EGI;BglI)",3.2.1.4,Q7Z7X3,GH7
+112, endoglucanase I,3.2.1.4,Q7M4V4,GH7
+113, SM2632A27;SM2632B65,3.2.1.4,"A4UWW5
+A4UWW9",GH7
+114, SM2637A29,3.2.1.4,A4UWY5,GH7
+115," endo-β-1,4-glucanase (RsSymEG1;RsSym EG I;RsSymEG;SM2038B11)",3.2.1.4,A4UWN6,GH7
+116, SM2039A92,3.2.1.4,A4UWP3,GH7
+117, SM2040A65,3.2.1.4,A4UWP5,GH7
+118, SM2042B24,3.2.1.4,A4UWQ5,GH7
+119," endo-β-1,4-glucanase A (CelA;Cthe_0269) (Cel8A)",3.2.1.4,A3DC29,GH8
+120," endo-β-1,4-glucanase A (CelA) (Cel8A)",3.2.1.4,"A3DC29
+P04955",GH8
+121, endoglucanase (CelY;Aq_1401) (Cel8Y),3.2.1.4,O67401,GH8
+122," endo-1,4-glucanase",3.2.1.4,P29019,GH8
+123," endo-β-1,4-glucanase (CMCase) (fragment)",3.2.1.4,P18336,GH8
+124, endoglucanase 8Y (Cel8Y),3.2.1.4,Q9APJ5,GH8
+125," endo-β-1,4-glucanase Y (CelY)",3.2.1.4,P27032,GH8
+126, endoglucanase,3.2.1.4,C7FFS4,GH8
+127," endo-β-1,4-glucanase (BcsZ)",3.2.1.4,K0IUV6,GH8
+128, endoglucanase (CelA),3.2.1.4,Q9L3G9,GH8
+129," endo-β-1,4-glucanase (YhjM;BcsC;b3531) (periplasmic)",3.2.1.4,P37651,GH8
+130, Fisuc_0241 / FSU_0651,3.2.1.4,C9RJZ0,GH8
+131, endoglucanase (Fisuc_1802;FSU_2303) (Cel8B),3.2.1.4,A7UG68,GH8
+132," endo-β-1,4-glucanase (Cel8H)",3.2.1.4,C0JSK6,GH8
+133," endo-β-1,4-glucanase (CelG;KPK_0216)",3.2.1.4,B5XN19,GH8
+134," endo-β-1,4-glucanase (Cel;CelJV;Cell-JV)",3.2.1.4,D9ISD8,GH8
+135," endo-β-1,4-glucanase (CMCase)",3.2.1.4,C9WB00,GH8
+136," endo-β-1,4-glucanase (Cel10;Kvar_0212)",3.2.1.4,"A0A0J4VP90
+D3RD09",GH8
+137," endo-β-1,4-glucanase (CMCax;AEG)",3.2.1.4,P37696,GH8
+138," endo-β-1,4-glucanase (CMCax;CMCase;Orf1)",3.2.1.4,O82857,GH8
+139, endoglucanase N257 (Egl257),3.2.1.4,Q93HV0,GH8
+140, cellulase (CelC;Cel1F) (Cel1F),3.2.1.4, ,GH8
+141, cellulase C2 (CelC2; CelcC2; CelC),3.2.1.4,Q83XK5,GH8
+142," endo-β-1,4-glucanase C (CelC;Ccel_0730) (Cel8C)",3.2.1.4,P37699,GH8
+143," endo-β-1,4-glucanase B (CelB) (Cel8A)",3.2.1.4,"D1MX94
+P37701",GH8
+144," endo-β-1,4-glucanase (GH8A;RUM_08240) (Cel8A)",3.2.1.4,D4LBL3,GH8
+145, endoglucanase (BcsZ),3.2.1.4,Q8ZLB7,GH8
+146, endoglucanase (CelC;CMCase),3.2.1.4,"Q7B8Q5
+Q8ZLB7",GH8
+147, acidic endocellulase (CEL8M) (Cel8M),3.2.1.4,F8V2V6,GH8
+148, GH-EG1,3.2.1.4,J9WUW3,GH8
+149, endoglucanase (Cen219;C8),3.2.1.4,"I6ZKG5
+S5ZBD1",GH8
+150, endoglucanase (CelA;ZMO1086),3.2.1.4,Q5NNK0,GH8
+151," endo-β-1,4-glucanase (Cel9B)",3.2.1.4,Q50HR0,GH9
+152, endoglucanase (Clocl_2225),3.2.1.4,G8LXR4,GH9
+153," endo-β-1,4-glucanase I (CelI;Cthe_0040) (Cel9I)",3.2.1.4,Q02934,GH9
+154, cellulase K (CelK;Cthe_0412) (Cel9K),3.2.1.4,A3DCH1,GH9
+155," endo-β-1,4-glucanase F (CelF;Cthe_0543) (Cel9B)",3.2.1.4,P26224,GH9
+156," endo-β-1,4-glucanase R / cellotetraohydrolase (CelR;Cthe_0578) (Cel9R)",3.2.1.4,A3DCY5,GH9
+157," endo-β-1,4-glucanase Q (CelQ;Cthe_0625) (Cel9I)",3.2.1.4,"A0A1Y0K4H1
+A3DD31",GH9
+158," endo-β-1,4-glucanase (CelD;Cthe_0825) (Cel9A)",3.2.1.4,A3DDN1,GH9
+159," endo-β-1,4-glucanase T (CelT;Cthe_2812) (Cel9T)",3.2.1.4,A3DJ82,GH9
+160, endoglucanase T (CelT) (Cel9T),3.2.1.4,Q8VV73,GH9
+161, endoglucanase Q (CelQ) (Cel9I),3.2.1.4,Q9AJF8,GH9
+162," cellotetraose-producing endo-β-1,4-glucanase (CelR) (Cel9R)",3.2.1.4,Q70DK3,GH9
+163," endo-β-1,4-glucanase N (CelN) (Cel9N)",3.2.1.4,Q9L3J5,GH9
+164," endo-β-1,4-glucanase D (CelD) (Cel9A)",3.2.1.4,"A3DDN1
+P04954
+P0C2S4",GH9
+165," endo-β-1,4-glucanase F (CelF) (Cel9B)",3.2.1.4,P26224,GH9
+166," endo-β-1,4-glucanase I (CelI;CMC) (Cel9C=Cel9I)",3.2.1.4,"Q02934
+Q9L3J8",GH9
+167, cellulase (CelA;Ac_Cel9A;AaCel9A;Aaci_2475) (Cel9A),3.2.1.4,"C8WSJ6
+Q9AJS0",GH9
+168, endoglucanase (BLi01880;BL01232;BlCel9),3.2.1.4,Q65JI9,GH9
+169, cellulase (Cel9A) (Cel9A),3.2.1.4,Q6SYB5,GH9
+170," endo-β-1,4-glucanase (EGX)",3.2.1.4,E3UTE0,GH9
+171, endoglucanase,3.2.1.4,G8I0B7,GH9
+172," endo-β-1,4-glucanase A (EglA)",3.2.1.4,Q5YLG1,GH9
+173," endo-β-1,4-glucanase",3.2.1.4,Q9R9H6,GH9
+174," endo-β-1,4-glucanase IV",3.2.1.4,P28622,GH9
+175, endoglucanase A (Ega;Bα-EGA),3.2.1.4,A6Y862,GH9
+176, cellulase (CelA20),3.2.1.4,C5HG55,GH9
+177," endo-1,4-glucanase C (Ced1)",3.2.1.4,P23658,GH9
+178, cellulase (CelA;CbCelA;Athe_1867;Cbes1867;Cbes_1867;CbCBH48A) (Cel9A+Cbh48A),3.2.1.4,"B9MKU7
+P96311",GH9
+179, bifunctional cellulase / β-mannanase (CelC-ManB;CbCel9B/Man5A;Athe_1865;Cbes_1865;Orf1952) (Cel9B-Man5A),3.2.1.4,B9MKU5,GH9
+180," endo-β-1,4-glucanase B (CenB;Celf_0019) (Cel9A)",3.2.1.4,"F4H3U7
+P26225",GH9
+181," endo-β-1,4-glucanase C (CenC) (Cel9B)",3.2.1.4,P14090,GH9
+182, endoglucanase (CBP105) (processive),3.2.1.4,Q3ZMA8,GH9
+183, Cfla_3563,3.2.1.4,"A0A1Y0K4G5
+D5UDH9",GH9
+184," endo-β-1,4-glucanase A (CelA;CJA_2472) (Cel9A)",3.2.1.4,"B3PKK4
+P10476",GH9
+185, endoglucanase (CelG;CAC0916),3.2.1.4,Q97KK3,GH9
+186, endoglucanase O (EngO),3.2.1.4,Q6DTY2,GH9
+187," endo-β-1,4-glucanase (EngZ;NC1;Clocel_2741)",3.2.1.4,D9SRK9,GH9
+188," endo-β-1,4-glucanase K (EngK)",3.2.1.4,Q9RGE8,GH9
+189," endo-β-1,4-glucanase L (EngL; Clocel_2819)",3.2.1.4,"C5RQ37
+D9SS68
+Q9RGE6",GH9
+190," endo-β-1,4-glucanase M (EngM)",3.2.1.4,Q9LAJ2,GH9
+191," endo-β-1,4-glucanase Y (EngY)",3.2.1.4,Q9AQF4,GH9
+192," endo-β-1,4-glucanase H (EngH)",3.2.1.4,O65987,GH9
+193, endoglucanase 9A (CHU_1336) (Cel9A),3.2.1.4,"A0A6N4SQK1
+Q11VF8",GH9
+194, endoglucanase / cellulose-binding protein A / E1 (Cbpe1;CbpA),3.2.1.4,Q8RR29,GH9
+195, endoglucanase / cellulose-binding protein B (CbpB),3.2.1.4,Q402U6,GH9
+196," endo-1,4-glucanase A (EndA)",3.2.1.4,P23665,GH9
+197," endo-β-1,4-glucanase C (EgC;CMCase)",3.2.1.4,Q59442,GH9
+198," endo-β-1,4-glucanase B (EndB;EgB;Fisuc_0057;FSU_0451) (Cel9G)",3.2.1.4,"C9RJ28
+Q59444",GH9
+199," endo-1,4-glucanase D (CelD; Fisuc_1860; FSU_2362) (Cel9C)",3.2.1.4,"D9S4N9
+P77864",GH9
+200, endoglucanase 1 (CelE;End1;Fisuc_1859;FSU_2361) (Cel9B),3.2.1.4,"A7UG67
+P71326",GH9
+201," endo-β-1,4-glucanase 9A (CpCel9; cphy3367; Cphy_3367) (Cel9A)",3.2.1.4,A9KT90,GH9
+202, endocellulase (EgltA) (Cel9),3.2.1.4,Q9RAI8,GH9
+203," endo-β-1,4-glucanase B (CelB) (Cel9B)",3.2.1.4,Q9Z4I1,GH9
+204," endo-β-1,4-glucanase (Cel9P)",3.2.1.4,B7U9C9,GH9
+205, endoglucanase (fragment) (Cel9A),3.2.1.4,Q9APG3,GH9
+206," endo-β-1,4-glucanase (CelA)",3.2.1.4,Q9Z3X7,GH9
+207, cellulase 9R (Ccel_1648) (Cel9R),3.2.1.4,B8I2K6,GH9
+208, cellulase 9W (Ccel_2226) (Cel9W),3.2.1.4,B8I4R4,GH9
+209, cellulase 9U / cellulase 9S (Ccel_0755) (Cel9S=Cel9U),3.2.1.4,B8I7X6,GH9
+210, β-glucanase 9T (Ccel_1249) (Cel9T),3.2.1.4,B8I0N0,GH9
+211," endo-β-1,4-glucanase 9G (CelG; Ccel_0731) (Cel9G)",3.2.1.4,P37700,GH9
+212, cellulase 9Q (Ccel_0231) (Cel9Q),3.2.1.4,Q0PRN4,GH9
+213, cellulase 9P (P90; Ccel_0753) (Cel9P),3.2.1.4,Q0PRM9,GH9
+214, cellulase M (CelM;Ccel_0737) (Cel9M),3.2.1.4,"B8I7V9
+Q9EYQ2",GH9
+215, cellulase 9J (CelJ; Ccel_0735) (Cel9J),3.2.1.4,"B8I7V7
+Q9EYQ4",GH9
+216, cellulase 9H (CelH; Ccel_0734) (Cel9H),3.2.1.4,"B8I7V6
+Q9EYQ5",GH9
+217," endo-β-1,4-glucanase (GH9A;RUM_01230) (Cel9A)",3.2.1.4,D4L9U6,GH9
+218," endo-β-1,4-glucanase (GH9C;RUM_08690) (Cel9C)",3.2.1.4,D4LBQ2,GH9
+219," endo-β-1,4-glucanase (GH9D;RUM_14490) (Cel9D)",3.2.1.4,D4LD59,GH9
+220," endo-β-1,4-glucanase (GH9E;RUM_15950) (Cel9E)",3.2.1.4,D4LDI8,GH9
+221," endo-β-1,4-glucanase (GH9F;RUM_15960) (Cel9F)",3.2.1.4,D4LDI9,GH9
+222," endo-β-1,4-glucanase (GH9G;RUM_24010) (Cel9G)",3.2.1.4,D4LFJ4,GH9
+223," endo-1,4-glucanase I (Cel1)",3.2.1.4,Q05156,GH9
+224," endo-β-1,4-glucanase (E1;EGtf1;Tfu_1627) (Cel9B)",3.2.1.4,"Q08166
+Q47PF7",GH9
+225," endo/exo-β-1,4-glucanase 9A (E4;CelD;TfCel9A;Tfu_2176) (processive) (Cel9A)",3.2.1.4,"P26221
+Q47MW0",GH9
+226," endo-β-1,4-glucanase (ThCel9A) (Cel9A)",3.2.1.4,G4XKY7,GH9
+227," endo-β-1,4-glucanase Z / avicelase I (CelZ)",3.2.1.4,P23659,GH9
+228, endo-glucanase 9Z (Cel9Z; CelZ; Cst_c18960),3.2.1.4, ,GH9
+229," endo-β-1,4-glucanase (LScel4;LS4;Cel)",3.2.1.4,Q5NJL8,GH9
+230, cellulase (CelA2;BP-CelA2),3.2.1.4,H2BNN6,GH9
+231," endo-β-1,4-glucanase (UmCel9A) (Cel9A)",3.2.1.4,Q308B9,GH9
+232," endo-β-1,4-glucanase (UmCel9B) (Cel9B)",3.2.1.4,Q308B8,GH9
+233," endo-β-1,4-glucanase (UmCel9C) (Cel9C)",3.2.1.4,Q308B7,GH9
+234, cellulase (Lc-CelG),3.2.1.4,W8PF21,GH9
+235," endo-β-1,4-glucanase (Egl2;EngXCB)",3.2.1.4,Q9RBJ4,GH9
+236," endo-β-1,4-glucanase (AlCMCase;DJ013_18025)",3.2.1.4,A0A2Z4GG46,GH10
+237," endo-β-1,4-glucanase (BbCMCase;A2066_15670)",3.2.1.4,A0A1F3EZY1,GH10
+238," endo-β-1,4-glucanase (CqCMCase;ADICYQ_4013)",3.2.1.4,S7VBJ2,GH10
+239, cellulase (TCel6;Cmaq_1621),3.2.1.4,A8M9X3,GH12
+240," endo-β-1,4-glucanase A (EglA;EGPf;TCel1;PF0854) (Cel12)",3.2.1.4,"E7FHY8
+Q9V2T0",GH12
+241," endo-β-1,4-glucanase (SsGluC)",3.2.1.4, ,GH12
+242, cellulase (CelB;SSO2534),3.2.1.4,Q97VS7,GH12
+243, endoglucanase (SSO1354),3.2.1.4,Q97YG7,GH12
+244, endoglucanase (GuxA;Acel_0615),3.2.1.4,A0LSH8,GH12
+245, cellulase (Cel12;AcCel12B;Acel_0619) (Cel12B),3.2.1.4,A0LSI2,GH12
+246," endo-β-1,4-glucanase (Cel12A) (Cel12A)",3.2.1.4,Q7X4S4,GH12
+247, Rv1090 (Cel12) (possible fragment),3.2.1.4,O53438,GH12
+248," endo-1,4-glucanase S",3.2.1.4,P16630,GH12
+249," endo-1,4-glucanase B (CelB)",3.2.1.4,O31030,GH12
+250," endo-β-1,4-glucanase (CMCase; W5S_2949)",3.2.1.4,P16630,GH12
+251, cellulase A (CelA) (Cel12A),3.2.1.4,O33897,GH12
+252, STHERM_c20650,3.2.1.4,E0RQU3,GH12
+253," endo-β-1,4-glucanase (CelA2;Cel2)",3.2.1.4,O08468,GH12
+254," endo-β-1,4-glucanase (CelB;CelB2;EGI)",3.2.1.4,Q54331,GH12
+255," endo-β-1,4-glucanase S (EglS)",3.2.1.4,Q59963,GH12
+256, cellulase 12A (Cel12A),3.2.1.4,Q9KIH1,GH12
+257," endo-β-1,4-glucanase (Cel;CelStrep)",3.2.1.4,I7L8N7,GH12
+258," endo-β-1,4-glucanase S1 (CelS1)",3.2.1.4,Q9X602,GH12
+259," endo-β-1,4-glucanase (Cel)",3.2.1.4,D2D3J0,GH12
+260," endo-β-1,4-glucanase A (CelA;TmCel12A;TM1524;TM_1524;Tmari_1532) (Cel12A)",3.2.1.4,"G4FFR2
+Q60032
+Q9S5X8",GH12
+261," endo-β-1,4-glucanase B (CelB;TM1525) (Cel12B)",3.2.1.4,"G4FFR3
+Q60033
+Q7DF96",GH12
+262," endo-β-1,4-glucanase A (CelA)",3.2.1.4,"O08428
+P96491",GH12
+263," endo-β-1,4-glucanase B (CelB)",3.2.1.4,"P96492
+Q798L1",GH12
+264, cellulase (TCel2;Tpet_1267),3.2.1.4,A5IM58,GH12
+265, cellulase (TCel5;Tpet_1268),3.2.1.4,A5IM59,GH12
+266, endoglucanase (RSC-EG1),3.2.1.4,H9BVK4,GH12
+267, cellulase (Lc-CelA),3.2.1.4,W8PWF3,GH12
+268," endo-β-1,4-glucanase 1 (Cmc1;Cmc-1;FI CM-cellulase;FI-CMCase)",3.2.1.4,P22669,GH12
+269, endoglucanase (Cel12B),3.2.1.4,Q8NJY2,GH12
+270," endo-β-1,4-glucanase (CekA)",3.2.1.4,Q12679,GH12
+271," endo-β-1,4-glucanase (EglA;AnEglA)",3.2.1.4,O74705,GH12
+272," endo-β-1,4-glucanase (EglA;An14g02760)",3.2.1.4,A2R322,GH12
+273, endoglucanase,3.2.1.4,O74705,GH12
+274, endoglucanase A (EglA) (partial),3.2.1.4,D3YC02,GH12
+275," endo-β-1,4-glucanase (CelA)",3.2.1.4,O13454,GH12
+276," endo-β-1,4-glucanase (CelA;AO090026000102)",3.2.1.4,Q2UFR8,GH12
+277, endoglucanase (EglD;AtEglD;AtGH12;ATEG_09894),3.2.1.4,Q0C8U0,GH12
+278," endo-β-1,4-glucanase (AuCel12A) (Cel12A)",3.2.1.4,G1ETN1,GH12
+279, endoglucanase (Cel12A),3.2.1.4,Q8NJZ6,GH12
+280, endoglucanase (EG3; EG III),3.2.1.4, ,GH12
+281, endoglucanase (Cel12A),3.2.1.4,Q8NJZ1,GH12
+282, endoglucanase (Cel12B),3.2.1.4,Q8NJZ0,GH12
+283, endoglucanase (Cel12C),3.2.1.4,Q8NJY9,GH12
+284, endoglucanase (Cel12D),3.2.1.4,Q8NJY8,GH12
+285, endoglucanase (Cel12A),3.2.1.4,Q8NJZ5,GH12
+286, endoglucanase II (EG-II;Eg2;EG35) (Cel12),3.2.1.4,A4PID1,GH12
+287, endoglucanase (Cel12A),3.2.1.4,Q8NJZ4,GH12
+288, broad specificity endo-β-glucanase (fg11037;FGSG_11037) (7138),3.2.1.4, ,GH12
+289, broad specificity endo-β-glucanase (FGRAMPH1_01T25915; fg07892;FGSG_07892) (7048),3.2.1.4,I1RUJ7,GH12
+290, broad specificity endo-β-glucanase (fgd146-200;FGSG_16349) (7213),3.2.1.4, ,GH12
+291, endoglucanase (Cel12A),3.2.1.4,Q8NJZ3,GH12
+292, endoglucanase (Cel12B),3.2.1.4,Q8NJZ2,GH12
+293," endo-β-1,4-glucanase (Cel12g;GtCel12A) (Cel12A)",3.2.1.4,"F8T946
+P84196",GH12
+294, endoglucanase (Cel12A),3.2.1.4,Q8NJY3,GH12
+295, endoglucanase (Cel12A),3.2.1.4,Q8NJY6,GH12
+296, endoglucanase (Cel12A),3.2.1.4,Q8NJY7,GH12
+297, endoglucanase (PDE_06439) (Cel12A),3.2.1.4,S7ZMB4,GH12
+298, endoglucanase 28 (Cel12A),3.2.1.4,Q66NB6,GH12
+299, endoglucanase (Cel3A;CMCase3a;CMCase IIIa),3.2.1.4,Q50LE3,GH12
+300," endo-β-1,4-glucanase (PpCel12A) (partial) (Cel12A)",3.2.1.4,D7REW4,GH12
+301, β-glucanase (lichenase-like) (Cel12A),3.2.1.4,Q08HM8,GH12
+302, endoglucanase 1 (Eg1; EG1),3.2.1.4, ,GH12
+303," endo-β-1,4-glucanase 3 / III (Egl3;EG3;EGIII;ThEG3;ThEGIII) (Cel12A)",3.2.1.4,I3RY46,GH12
+304, endoglucanase (Cel12A),3.2.1.4,Q8NJY5,GH12
+305," endo-β-1,4-glucanase III (Egl3;EGIII;EG III;EG3;TrCel12A) (Cel12A)",3.2.1.4,O00095,GH12
+306, endoglucanase (Cel12A),3.2.1.4,Q8NJY4,GH12
+307, endoglucanase J (CelJ) (Cel9D-Cel44A),3.2.1.4,"A3DD30
+P71140",GH44
+308, bifunctional mannanase / endoglucanase (CbMan5A/Cel44A;Athe_1859;Cbes_1859;ORF1946) (Man5A-Cel44A),3.2.1.4,B9MKT9,GH44
+309," bifunctional β-mannanase / endo-β-1,4-glucanase (ManA)",3.2.1.4,P22533,GH44
+310," endo-β-1,4-glucanase A (CelA)",3.2.1.4,P29719,GH44
+311, cellulase (EndB),3.2.1.4,Q934F9,GH44
+312, cellulase (Lc-CelH),3.2.1.4,W8PBJ3,GH44
+313, endoglucanase (MgCel44) (Cel44),3.2.1.4,U5YC86,GH44
+314," endo-β-1,4-glucanase B / 45A (CelB;EGB;CJA_0374) (Cel45A)",3.2.1.4,"B3PI35
+P18126",GH45
+315," endo-β-1,4-glucanase (F45;Fisuc_1933;FSU_2443)",3.2.1.4,C9RIQ2,GH45
+316, endoglucanase B (GnuB),3.2.1.4,Q6XR86,GH45
+317, cellulase (Eng-2;ArENG2),3.2.1.4,A0A0E3Z7U1,GH45
+318," endo-β-1,4-glucanase (EG27I)",3.2.1.4,A7KME9,GH45
+319," endo-β-1,4-glucanase (EG27II)",3.2.1.4,A7KMF0,GH45
+320, cellulase 45A (AmCel-45A),3.2.1.4,K4GMG5,GH45
+321," endo-β-1,4-glucanase (GABY01019707.1)",3.2.1.4, ,GH45
+322, cellulase 21K (AkEG21;AkEG22),3.2.1.4,A0A077JGH0,GH45
+323, cellulase I (Ag-EGaseI),3.2.1.4,"Q5XQD1
+Q8I815",GH45
+324, endoglucanase II (Ag-EGaseII),3.2.1.4,Q6SS52,GH45
+325, glycoside hydrolase family 45 (Gh45-1),3.2.1.4,X2D5K6,GH45
+326, glycoside hydrolase family 45 (Gh45-2),3.2.1.4,X2D6C4,GH45
+327, cellulase I (Bh-EGaseI),3.2.1.4,A0A0F7NSK2,GH45
+328, endoglucanase (Eng2;Bx-eng-2),3.2.1.4,Q6BCL7,GH45
+329, endoglucanase (Eng3;Bx-Eng-3),3.2.1.4,Q6BCL3,GH45
+330, endoglucanase (Eng1;Bx-Eng-1),3.2.1.4,"K4F7Y8
+K4FA32
+Q6BCM1
+Q6BCN0",GH45
+331, endoglucanase (EG5;EG V) (Cel45A),3.2.1.4, ,GH45
+332," endo-β-1,4-glucanase (CjCel45A) (Cel45A)",3.2.1.4,B9X0W0,GH45
+333," endo-β-1,4-glucanase",3.2.1.4, ,GH45
+334," endo-β-1,4-glucanase (Cel;CaCel)",3.2.1.4,D3GDK4,GH45
+335," endo-β-1,4-glucanase (DVI2)",3.2.1.4,A0A4D6Q326,GH45
+336," endo-β-1,4-glucanase (DVI1;DvvENGaseI)",3.2.1.4,I1VZE8,GH45
+337, endoglucanase (FpCel45A) (Cel45A),3.2.1.4, ,GH45
+338," endo-β-1,4-glucanase (Gh45-2)",3.2.1.4, ,GH45
+339," endo-β-1,4-glucanase (GLOTRDRAFT_59933)",3.2.1.4, ,GH45
+340," endo-β-1,4-glucanase (Egl3)",3.2.1.4,"O93782
+P43316",GH45
+341," endo-β-1,4-glucanase IV (Egl4;EGIV)",3.2.1.4,O93783,GH45
+342," endo-β-1,4-glucanase V (EGV;EG V;NCE5) (Cel45A)",3.2.1.4,P43316,GH45
+343," endo-β-1,4-glucanase (PAS_chr4_0643) (Cel45A)",3.2.1.4,C4R8H7,GH45
+344," endo-β-1,4-glucanase (DIV10)",3.2.1.4,A0A4D6Q7T7,GH45
+345," endo-β-1,4-glucanase (LDE6)",3.2.1.4,E7CIY8,GH45
+346," endo-β-1,4-glucanase (Cel45A)",3.2.1.4, ,GH45
+347, endoglucanase (Fm1;HG 67-5),3.2.1.4,Q7YZU0,GH45
+348, endoglucanase (Fm3),3.2.1.4,Q7YZT8,GH45
+349, endoglucanase (Fm4),3.2.1.4,Q7YZT7,GH45
+350, endoglucanase (Fm2),3.2.1.4,Q7YZT9,GH45
+351," endo-β-1,4-glucanase (MaCel45A) (Cel45A)",3.2.1.4,Q8J0K8,GH45
+352," endo-β-1,4-glucanase (Mce1)",3.2.1.4,Q53VB3,GH45
+353," endo-β-1,4-glucanase (Mce2)",3.2.1.4,Q53VB2,GH45
+354, endoglucanase (Eg),3.2.1.4,"P82186
+Q95P02",GH45
+355, endoglucanase (NcCel45A;NCU05121.1) (Cel45A),3.2.1.4,"Q1K5M0
+Q872Q1",GH45
+356, endoglucanase V / 45A (EG V;PdCel45A) (Cel45A),3.2.1.4,B5AKD1,GH45
+357," endo-β-1,4-glucanase (EG)",3.2.1.4,O97401,GH45
+358," endo-β-1,4-glucanase (PCO1)",3.2.1.4,K4QDH6,GH45
+359, cellulase (Ghf45eg-1) (fragment),3.2.1.4,T1WGL7,GH45
+360, cellulase (Ghf45eg-2),3.2.1.4,T1WFT4,GH45
+361, endoglucanase V (EGV;PcCel45A) (Cel45A),3.2.1.4,"B3Y002
+G0ZPJ6",GH45
+362," endo-β-1,4-glucanase (Pce1)",3.2.1.4,Q5R230,GH45
+363, endoglucanase 45A (Cel45A),3.2.1.4,Q9P868,GH45
+364, endoglucanase (RsSym45eg1;RsSymEG2;SM2038B84),3.2.1.4,"A4UWR4
+Q9JH92",GH45
+365, RrCel45,3.2.1.4,A0A2U8LMQ2,GH45
+366," endo-β-1,4-glucanase (Rce1;RCE I)",3.2.1.4,Q8J1L2,GH45
+367," endo-β-1,4-glucanase (Rce2; RCE II)",3.2.1.4,Q8J1L1,GH45
+368," endo-β-1,4-glucanase (Rce3; RCE III)",3.2.1.4,Q8J1L0,GH45
+369," endo-β-1,4-glucanase (EG2)",3.2.1.4, ,GH45
+370, sscle_01g005720,3.2.1.4,A0A1D9PTE7,GH45
+371, endoglucanase I (EgI),3.2.1.4,Q7M4T4,GH45
+372," endo-β-1,4-glucanase (SOR1)",3.2.1.4,E7CIN4,GH45
+373," endo-β-1,4-glucanase(SOR2)",3.2.1.4,E7CIN5,GH45
+374," endo-β-1,4-glucanase (Stce1)",3.2.1.4,B5BNY1,GH45
+375, endoglucanase (CBH I),3.2.1.4,A7UGD9,GH45
+376," endo-?-1,4-glucanase (Cbh45-1)",3.2.1.4, ,GH45
+377," endo-β-1,4-glucanase (MYCTH_76901)",3.2.1.4, ,GH45
+378," endo-β-1,4-glucanase (THITE_2110957)",3.2.1.4,G2QVH7,GH45
+379, β-1_4-endoglucanase (Cel45),3.2.1.4, ,GH45
+380, endoglucanase V (EGV) (Cel45A),3.2.1.4,P43317,GH45
+381, endoglucanase V (EGV),3.2.1.4,Q7Z7X0,GH45
+382, NT0285A89,3.2.1.4,A4UWU6,GH45
+383, SM2765A61,3.2.1.4,A4UX40,GH45
+384, SM2760A28,3.2.1.4,A4UX33,GH45
+385, SM2030A92,3.2.1.4,A4UWR3,GH45
+386, SM2042A70,3.2.1.4,A4UWR5,GH45
+387," endo-1,4-glucanase 1 (Egl1)",3.2.1.4,P54424,GH45
+388,"  endo-β-1,4-glucanase (Clocl_4007)",3.2.1.4,G8M3C3,GH48
+389," endo-β-1,4-glucanase Y (CelY;Cthe_0071) (Cel48B=Cel48Y)",3.2.1.4,A3DBI3,GH48
+390, cellulase (BLi01881 / BL01231;CelB),3.2.1.4, ,GH48
+391, cellulase (HCH_02465),3.2.1.4,Q2SJA2,GH48
+392," β-1,4-glucanase (CelA4) (acidic)",3.2.1.4,D7PI32,GH51
+393, endoglucanase (CelVA),3.2.1.4,A0A0F7TAS1,GH51
+394, endoglucanase 2 / F (Eg2;CelF;EgF;CBP-4;Fisuc_3111;FSU_0382) (Cel51A),3.2.1.4,"C9RQE4
+P71329
+P77865",GH51
+395," endo-β-1,4-glucanase (SScel24;Lambda;Cel)",3.2.1.4,Q5NJL7,GH51
+396, cellulase (Lc-CelC),3.2.1.4,W8PBI6,GH51
+397," endo-β-1,4-glucanase (TM0305) (Cel74)",3.2.1.4,"Q9WYE1
+R4NXV8",GH74
+398," endo-β-1,4-glucanase (CtCel124;Cthe_0435) (Cel124A)",3.2.1.4,A3DCJ4,GH124
+399," endo-β-1,4-glucanase active on Konjac glucomannan (L483_17815)",3.2.1.4,R9V682,GH148
+400," endo-β-1,4-glucanase active on Konjac glucomannan (TERTU_3477)",3.2.1.4,C5BRA3,GH148

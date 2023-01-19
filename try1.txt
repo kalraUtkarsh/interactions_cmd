@@ -1,0 +1,9 @@
+1p54.pdb | BRU_A_8 | DG_A_9
+1p54.pdb | BRU_B_18 | DG_B_19
+1p54.pdb | BRU_B_18 | DA_B_16
+1p54.pdb | BRU_A_8 | DC_A_7
+1p54.pdb | BRU_B_18 | DC_A_1
+1p54.pdb | BRU_B_18 | DC_A_2
+1p54.pdb | BRU_B_18 | DC_B_17
+1p54.pdb | BRU_A_8 | BRU_A_8
+1p54.pdb | BRU_B_18 | BRU_B_18
